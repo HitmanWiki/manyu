@@ -34,7 +34,7 @@
                 linkUniswap: "https://app.uniswap.org/",
                 linkCoingecko: "https://www.coingecko.com/en/coins/",
                 linkCmc: "https://coinmarketcap.com/currencies/",
-                linkKucoin: "https://www.kucoin.com/trade/",
+                // linkKucoin: "https://www.kucoin.com/trade/",
                 linkMexc: "https://www.mexc.com/exchange/",
                 linkLbank: "https://www.lbank.com/pt-BR/trade/",
                 linkBitmart: "https://www.bitmart.com/trade/en-US?symbol=",
@@ -627,7 +627,7 @@
                                     className: "flex flex-col gap-2 text-center",
                                     children: (0, i.jsx)(r.E, {
                                         size: "sm",
-                                        children: "\xa9 2025 NALA ($NALA). All rights reserved. | contact@basednala.xyz"
+                                        children: "\xa9 2025 NALA ($NALA). All rights reserved. | contact@basednala.com"
                                     })
                                 })]
                             })

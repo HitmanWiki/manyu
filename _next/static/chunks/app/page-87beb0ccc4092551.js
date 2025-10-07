@@ -27,7 +27,7 @@
                 linkUniswap: "https://app.uniswap.org/",
                 linkCoingecko: "https://www.coingecko.com/en/coins/",
                 linkCmc: "https://coinmarketcap.com/currencies/",
-                linkKucoin: "https://www.kucoin.com/trade/",
+                // linkKucoin: "https://www.kucoin.com/trade/",
                 linkMexc: "https://www.mexc.com/exchange/",
                 linkLbank: "https://www.lbank.com/pt-BR/trade/",
                 linkBitmart: "https://www.bitmart.com/trade/en-US?symbol=",
@@ -761,88 +761,92 @@
                 })
             }
             var T = t(3347);
-            let O = [{
-                label: "Coingecko",
-                href: y.$.linkCoingecko
-            }, {
-                label: "CMC",
-                href: y.$.linkCmc
-            }, {
-                label: "Buy $NALA",
-                icon: (0, i.jsx)(k.cEG, {
-                    className: "size-5"
-                }),
-                href: y.$.linkUniswap
-            }, {
-                label: "$NALA X COMMUNITY",
-                icon: (0, i.jsx)(T.bBb, {
-                    className: "size-5"
-                }),
-                variant: "primary",
-                href: y.$.linkTwitter
-            }, {
-                label: "KUCOIN",
-                icon: "/images/kucoin-logo.webp",
-                variant: "primary",
-                href: y.$.linkKucoin
-            }, {
-                label: "MEXC",
-                icon: "/images/mexc.webp",
-                href: y.$.linkMexc
-            }, {
-                label: "LBANK",
-                icon: "/images/lbank.webp",
-                variant: "primary",
-                href: y.$.linkLbank
-            }, {
-                label: "BITMART",
-                icon: "/images/bitmart.webp",
-                href: y.$.linkBitmart
-            }, {
-                label: "XT",
-                icon: "/images/xt.webp",
-                variant: "primary",
-                href: y.$.linkXt
-            }, {
-                label: "POLONIEX",
-                icon: "/images/poloniex.webp",
-                href: y.$.linkPoloniex
-            }, {
-                label: "HOTCOIN",
-                icon: "/images/hotcoin.webp",
-                variant: "primary",
-                href: y.$.linkHotcoin
-            }, {
-                label: "KCEX",
-                icon: "/images/kcex.webp",
-                href: y.$.linkKcex
-            }, {
-                label: "BINGX",
-                icon: "/images/bingx-logo.webp",
-                variant: "primary",
-                href: y.$.linkBingx
-            }, {
-                label: "BICONOMY",
-                icon: "/images/bit_logo.webp",
-                variant: "primary",
-                href: "https://www.biconomy.com/exchange/"
-            }, {
-                label: "WEEX",
-                icon: "/images/logo_yellow.webp",
-                variant: "primary",
-                href: "https://www.weex.com/spot/"
-            },
-            {
-                label: "NALA FUN",
-                icon: "/images/logo.webp",
-                variant: "primary",
-                href: ""
-            },
-            {
-                label: "HUOBI",
-                icon: "/images/htx.webp",
-                href: "https://www.huobi.com/en-us/exchange/"
-            }];
+            let O = [
+                {
+                    label: "Coingecko",
+                    href: y.$.linkCoingecko
+                }, {
+                    label: "CMC",
+                    href: y.$.linkCmc
+                }, {
+                    label: "Buy $NALA",
+                    icon: (0, i.jsx)(k.cEG, {
+                        className: "size-5"
+                    }),
+                    href: y.$.linkUniswap
+                }, {
+                    label: "$NALA X COMMUNITY",
+                    icon: (0, i.jsx)(T.bBb, {
+                        className: "size-5"
+                    }),
+                    variant: "primary",
+                    href: y.$.linkTwitter
+                },
+                {
+                    label: "KUCOIN",
+                    icon: "/images/kucoin-logo.webp",
+                    variant: "primary",
+                    href: y.$.linkKucoin
+                },
+                {
+                    label: "MEXC",
+                    icon: "/images/mexc.webp",
+                    href: y.$.linkMexc
+                }, {
+                    label: "LBANK",
+                    icon: "/images/lbank.webp",
+                    variant: "primary",
+                    href: y.$.linkLbank
+                }, {
+                    label: "BITMART",
+                    icon: "/images/bitmart.webp",
+                    href: y.$.linkBitmart
+                }, {
+                    label: "XT",
+                    icon: "/images/xt.webp",
+                    variant: "primary",
+                    href: y.$.linkXt
+                }, {
+                    label: "POLONIEX",
+                    icon: "/images/poloniex.webp",
+                    href: y.$.linkPoloniex
+                }, {
+                    label: "HOTCOIN",
+                    icon: "/images/hotcoin.webp",
+                    variant: "primary",
+                    href: y.$.linkHotcoin
+                }, {
+                    label: "KCEX",
+                    icon: "/images/kcex.webp",
+                    href: y.$.linkKcex
+                }, {
+                    label: "BINGX",
+                    icon: "/images/bingx-logo.webp",
+                    variant: "primary",
+                    href: y.$.linkBingx
+                }, {
+                    label: "BICONOMY",
+                    icon: "/images/bit_logo.webp",
+                    variant: "primary",
+                    href: "https://www.biconomy.com/exchange/"
+                }, {
+                    label: "WEEX",
+                    icon: "/images/logo_yellow.webp",
+                    variant: "primary",
+                    href: "https://www.weex.com/spot/"
+                },
+                {
+                    label: "NALA FUN",
+                    icon: "/images/logo.webp",
+                    variant: "primary",
+                    href: ""
+                },
+                {
+                    label: "HUOBI",
+                    icon: "/images/htx.webp",
+                    href: "https://www.huobi.com/en-us/exchange/"
+                }
+            ];
 
             function I() {
                 let e = (0, l.useRef)(null),
@@ -907,7 +911,7 @@
                                     children: (0, i.jsx)(g.E, {
                                         size: "huge-2",
                                         className: "text-xl md:text-2xl lg:text-3xl",
-                                        children: "ナラ- Nala the Cat is more than just an adorable feline "
+                                        children: "ナラ- Nala The worlds most famous cat "
                                     })
                                 })]
                             }), (0, i.jsx)(n?.P?.div || "div", {
@@ -1664,7 +1668,7 @@
                                                     children: "TikTok"
                                                 })
                                             }), (0, i.jsx)(U, {
-                                                children: "7m+"
+                                                children: "236k+"
                                             }), (0, i.jsx)(E, {
                                                 children: (0, i.jsx)(g.E, {
                                                     size: "sm",
@@ -1713,7 +1717,7 @@
                                                     children: "Instagram"
                                                 })
                                             }), (0, i.jsx)(U, {
-                                                children: "3m+"
+                                                children: "4.4m+"
                                             }), (0, i.jsx)(E, {
                                                 children: (0, i.jsx)(g.E, {
                                                     size: "sm",
@@ -1764,7 +1768,7 @@
                                                     children: "YouTube"
                                                 })
                                             }), (0, i.jsx)(U, {
-                                                children: "12m+"
+                                                children: "28k"
                                             }), (0, i.jsx)(E, {
                                                 children: (0, i.jsx)(g.E, {
                                                     size: "sm",
@@ -2448,12 +2452,12 @@
                     }), (0, i.jsxs)("div", {
                         className: "flex flex-wrap items-center justify-center gap-8 py-20",
                         children: [(0, i.jsx)(Q, {
-                            value: 20,
+                            value: 5,
                             label: "Total Followers",
                             suffix: "M+",
                             delay: 0
                         }), (0, i.jsx)(Q, {
-                            value: 366,
+                            value: 25,
                             label: "Video Views",
                             suffix: "M+",
                             delay: .2
@@ -3213,7 +3217,7 @@
                         icon: (0, i.jsx)(k.H5e, {
                             className: "size-8.5"
                         }),
-                        title: "1 Quadrillion Total Supply",
+                        title: "1 Billion Total Supply",
                         description: "Fixed token supply with no possibility of inflation or additional minting"
                     }, {
                         icon: (0, i.jsx)(k.JhU, {
@@ -3262,7 +3266,7 @@
                             children: [(0, i.jsx)(m, {
                                 as: "h1",
                                 className: "mb-4 text-6xl font-black tracking-tight uppercase md:text-8xl",
-                                children: "NALAOMICS"
+                                children: "NALANOMICS"
                             }), (0, i.jsx)(n?.P?.div || "div", {
                                 initial: {
                                     opacity: 0,
