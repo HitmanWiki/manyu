@@ -406,13 +406,16 @@
             }, {
                 logo: k.zyo,
                 href: y.$.linkTelegram
-            }, {
-                logo: M.DC0,
-                href: y.$.linkMedium
-            }, {
-                logo: k.hL4,
-                href: y.$.linkGithub
-            }, {
+            },
+            //  {
+            //     logo: M.DC0,
+            //     href: y.$.linkMedium
+            // }, 
+            // {
+            //     logo: k.hL4,
+            //     href: y.$.linkGithub
+            // },
+            {
                 logo: "/images/dexscreener-white.webp",
                 href: y.$.linkDexscreener
             }, {
