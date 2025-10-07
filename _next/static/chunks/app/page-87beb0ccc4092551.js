@@ -825,21 +825,23 @@
                 label: "BICONOMY",
                 icon: "/images/bit_logo.webp",
                 variant: "primary",
-                href: "https://www.biconomy.com/exchange/MANYU_USDT"
+                href: "https://www.biconomy.com/exchange/"
             }, {
                 label: "WEEX",
                 icon: "/images/logo_yellow.webp",
                 variant: "primary",
-                href: "https://www.weex.com/spot/MANYU-USDT"
-            }, {
-                label: "MANYU.FUN",
+                href: "https://www.weex.com/spot/"
+            },
+            {
+                label: "NALA FUN",
                 icon: "/images/logo.webp",
                 variant: "primary",
-                href: "https://manyu.fun/"
-            }, {
+                href: ""
+            },
+            {
                 label: "HUOBI",
                 icon: "/images/htx.webp",
-                href: "https://www.huobi.com/en-us/exchange/manyu_usdt"
+                href: "https://www.huobi.com/en-us/exchange/"
             }];
 
             function I() {
