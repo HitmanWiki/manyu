@@ -15,8 +15,8 @@
                 siteUrl: "https://basednala.com/",
                 siteImage: "https://manyushiba.com/wp-content/uploads/2025/07/cropped-GCVXiwda0AAJvpe-modified-scaled-1.webp",
                 hash: "0x000000000000000000000000",
-                linkTelegram: "https://t.me/",
-                linkTwitter: "https://x.com/",
+                linkTelegram: "https://t.me/Basenala",
+                linkTwitter: "https://x.com/basenala?s=21",
                 linkInstagram: "https://www.instagram.com/nala_cat/",
                 linkTiktok: "https://www.tiktok.com/",
                 linkYoutube: "https://www.youtube.com/",
@@ -863,7 +863,7 @@
                     }), (0, i.jsx)("div", {
                         className: "absolute bottom-0 h-full w-full bg-gradient-to-t from-black via-transparent to-transparent"
                     }), (0, i.jsx)("div", {
-                        className: "relative z-20 mx-auto w-full px-6 pt-30 text-center sm:pt-60 md:pt-80 lg:pt-100",
+                        className: "relative z-60 mx-auto w-full px-6 pt-30 text-center sm:pt-60 md:pt-80 lg:pt-100",
                         children: (0, i.jsxs)("div", {
                             className: "mx-auto grid max-w-350 grid-cols-1 gap-16 pb-10",
                             children: [(0, i.jsxs)("div", {
