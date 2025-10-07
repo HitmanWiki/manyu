@@ -763,8 +763,7 @@
             var T = t(3347);
             let O = [
                 {
-                    label: "Coingecko",
-                    href: y.$.linkCoingecko
+
                 }, {
                     label: "CMC",
                     href: y.$.linkCmc
@@ -914,706 +913,715 @@
                                         children: "ナラ- Nala The worlds most famous cat "
                                     })
                                 })]
-                            }), (0, i.jsx)(n?.P?.div || "div", {
-                                ref: e,
-                                initial: {
-                                    opacity: 0,
-                                    y: 20
-                                },
-                                animate: a ? {
-                                    opacity: 1,
-                                    y: 0
-                                } : {
-                                    opacity: 0,
-                                    y: 20
-                                },
-                                transition: {
-                                    duration: .8,
-                                    delay: .4
-                                },
-                                className: "flex flex-col items-center gap-6",
-                                children: [(0, i.jsxs)("div", {
-                                    className: "flex w-full max-w-sm flex-col gap-3 min-[400px]:hidden",
-                                    children: [(0, i.jsxs)("div", {
-                                        className: "flex gap-3",
-                                        children: [(0, i.jsx)("a", {
-                                            href: O[0].href,
-                                            target: "_blank",
-                                            rel: "noopener noreferrer",
-                                            className: "flex-1",
-                                            children: (0, i.jsx)(n?.P?.div || "div", {
-                                                initial: {
-                                                    opacity: 0,
-                                                    y: 20,
-                                                    scale: .8
-                                                },
-                                                animate: a ? {
-                                                    opacity: 1,
-                                                    y: 0,
-                                                    scale: 1
-                                                } : {
-                                                    opacity: 0,
-                                                    y: 20,
-                                                    scale: .8
-                                                },
-                                                transition: {
-                                                    duration: .5,
-                                                    delay: .4,
-                                                    ease: "easeOut"
-                                                },
-                                                children: (0, i.jsx)(h.$, {
-                                                    variant: O[0].variant,
-                                                    className: "w-full",
-                                                    asChild: !0,
-                                                    children: O[0].label
-                                                })
-                                            })
-                                        }), (0, i.jsx)("a", {
-                                            href: O[1].href,
-                                            target: "_blank",
-                                            rel: "noopener noreferrer",
-                                            className: "flex-1",
-                                            children: (0, i.jsx)(n?.P?.div || "div", {
-                                                initial: {
-                                                    opacity: 0,
-                                                    y: 20,
-                                                    scale: .8
-                                                },
-                                                animate: a ? {
-                                                    opacity: 1,
-                                                    y: 0,
-                                                    scale: 1
-                                                } : {
-                                                    opacity: 0,
-                                                    y: 20,
-                                                    scale: .8
-                                                },
-                                                transition: {
-                                                    duration: .5,
-                                                    delay: .5,
-                                                    ease: "easeOut"
-                                                },
-                                                children: (0, i.jsx)(h.$, {
-                                                    variant: O[1].variant,
-                                                    className: "w-full",
-                                                    asChild: !0,
-                                                    children: O[1].label
-                                                })
-                                            })
-                                        })]
-                                    }), (0, i.jsx)("a", {
-                                        href: O[2].href,
-                                        target: "_blank",
-                                        rel: "noopener noreferrer",
-                                        children: (0, i.jsx)(n?.P?.div || "div", {
-                                            initial: {
-                                                opacity: 0,
-                                                y: 20,
-                                                scale: .8
-                                            },
-                                            animate: a ? {
-                                                opacity: 1,
-                                                y: 0,
-                                                scale: 1
-                                            } : {
-                                                opacity: 0,
-                                                y: 20,
-                                                scale: .8
-                                            },
-                                            transition: {
-                                                duration: .5,
-                                                delay: .6,
-                                                ease: "easeOut"
-                                            },
-                                            children: (0, i.jsx)(h.$, {
-                                                variant: O[2].variant,
-                                                leftIcon: O[2].icon,
-                                                className: "w-full",
-                                                asChild: !0,
-                                                children: O[2].label
-                                            })
-                                        })
-                                    }), (0, i.jsx)("a", {
-                                        href: O[3].href,
-                                        target: "_blank",
-                                        rel: "noopener noreferrer",
-                                        children: (0, i.jsx)(n?.P?.div || "div", {
-                                            initial: {
-                                                opacity: 0,
-                                                y: 20,
-                                                scale: .8
-                                            },
-                                            animate: a ? {
-                                                opacity: 1,
-                                                y: 0,
-                                                scale: 1
-                                            } : {
-                                                opacity: 0,
-                                                y: 20,
-                                                scale: .8
-                                            },
-                                            transition: {
-                                                duration: .5,
-                                                delay: .7,
-                                                ease: "easeOut"
-                                            },
-                                            children: (0, i.jsx)(h.$, {
-                                                variant: O[3].variant,
-                                                rightIcon: O[3].icon,
-                                                className: "w-full",
-                                                asChild: !0,
-                                                children: O[3].label
-                                            })
-                                        })
-                                    }), (0, i.jsxs)("div", {
-                                        className: "flex gap-3",
-                                        children: [(0, i.jsx)("a", {
-                                            href: O[4].href,
-                                            target: "_blank",
-                                            rel: "noopener noreferrer",
-                                            className: "flex-1",
-                                            children: (0, i.jsx)(n?.P?.div || "div", {
-                                                initial: {
-                                                    opacity: 0,
-                                                    y: 20,
-                                                    scale: .8
-                                                },
-                                                animate: a ? {
-                                                    opacity: 1,
-                                                    y: 0,
-                                                    scale: 1
-                                                } : {
-                                                    opacity: 0,
-                                                    y: 20,
-                                                    scale: .8
-                                                },
-                                                transition: {
-                                                    duration: .5,
-                                                    delay: .8,
-                                                    ease: "easeOut"
-                                                },
-                                                children: (0, i.jsx)(h.$, {
-                                                    variant: O[4].variant,
-                                                    rightIcon: O[4].icon,
-                                                    className: "w-full",
-                                                    asChild: !0,
-                                                    children: O[4].label
-                                                })
-                                            })
-                                        }), (0, i.jsx)("a", {
-                                            href: O[5].href,
-                                            target: "_blank",
-                                            rel: "noopener noreferrer",
-                                            className: "flex-1",
-                                            children: (0, i.jsx)(n?.P?.div || "div", {
-                                                initial: {
-                                                    opacity: 0,
-                                                    y: 20,
-                                                    scale: .8
-                                                },
-                                                animate: a ? {
-                                                    opacity: 1,
-                                                    y: 0,
-                                                    scale: 1
-                                                } : {
-                                                    opacity: 0,
-                                                    y: 20,
-                                                    scale: .8
-                                                },
-                                                transition: {
-                                                    duration: .5,
-                                                    delay: .9,
-                                                    ease: "easeOut"
-                                                },
-                                                children: (0, i.jsx)(h.$, {
-                                                    variant: O[5].variant,
-                                                    rightIcon: O[5].icon,
-                                                    className: "w-full",
-                                                    asChild: !0,
-                                                    children: O[5].label
-                                                })
-                                            })
-                                        })]
-                                    }), (0, i.jsxs)("div", {
-                                        className: "flex gap-3",
-                                        children: [(0, i.jsx)("a", {
-                                            href: O[6].href,
-                                            target: "_blank",
-                                            rel: "noopener noreferrer",
-                                            className: "flex-1",
-                                            children: (0, i.jsx)(n?.P?.div || "div", {
-                                                initial: {
-                                                    opacity: 0,
-                                                    y: 20,
-                                                    scale: .8
-                                                },
-                                                animate: a ? {
-                                                    opacity: 1,
-                                                    y: 0,
-                                                    scale: 1
-                                                } : {
-                                                    opacity: 0,
-                                                    y: 20,
-                                                    scale: .8
-                                                },
-                                                transition: {
-                                                    duration: .5,
-                                                    delay: 1,
-                                                    ease: "easeOut"
-                                                },
-                                                children: (0, i.jsx)(h.$, {
-                                                    variant: O[6].variant,
-                                                    rightIcon: O[6].icon,
-                                                    className: "w-full",
-                                                    asChild: !0,
-                                                    children: O[6].label
-                                                })
-                                            })
-                                        }), (0, i.jsx)("a", {
-                                            href: O[7].href,
-                                            target: "_blank",
-                                            rel: "noopener noreferrer",
-                                            className: "flex-1",
-                                            children: (0, i.jsx)(n?.P?.div || "div", {
-                                                initial: {
-                                                    opacity: 0,
-                                                    y: 20,
-                                                    scale: .8
-                                                },
-                                                animate: a ? {
-                                                    opacity: 1,
-                                                    y: 0,
-                                                    scale: 1
-                                                } : {
-                                                    opacity: 0,
-                                                    y: 20,
-                                                    scale: .8
-                                                },
-                                                transition: {
-                                                    duration: .5,
-                                                    delay: 1.1,
-                                                    ease: "easeOut"
-                                                },
-                                                children: (0, i.jsx)(h.$, {
-                                                    variant: O[7].variant,
-                                                    rightIcon: O[7].icon,
-                                                    className: "w-full",
-                                                    asChild: !0,
-                                                    children: O[7].label
-                                                })
-                                            })
-                                        })]
-                                    }), (0, i.jsxs)("div", {
-                                        className: "flex gap-3",
-                                        children: [(0, i.jsx)("a", {
-                                            href: O[8].href,
-                                            target: "_blank",
-                                            rel: "noopener noreferrer",
-                                            className: "flex-1",
-                                            children: (0, i.jsx)(n?.P?.div || "div", {
-                                                initial: {
-                                                    opacity: 0,
-                                                    y: 20,
-                                                    scale: .8
-                                                },
-                                                animate: a ? {
-                                                    opacity: 1,
-                                                    y: 0,
-                                                    scale: 1
-                                                } : {
-                                                    opacity: 0,
-                                                    y: 20,
-                                                    scale: .8
-                                                },
-                                                transition: {
-                                                    duration: .5,
-                                                    delay: 1.2,
-                                                    ease: "easeOut"
-                                                },
-                                                children: (0, i.jsx)(h.$, {
-                                                    variant: O[8].variant,
-                                                    rightIcon: O[8].icon,
-                                                    className: "w-full",
-                                                    asChild: !0,
-                                                    children: O[8].label
-                                                })
-                                            })
-                                        }), (0, i.jsx)("a", {
-                                            href: O[9].href,
-                                            target: "_blank",
-                                            rel: "noopener noreferrer",
-                                            className: "flex-1",
-                                            children: (0, i.jsx)(n?.P?.div || "div", {
-                                                initial: {
-                                                    opacity: 0,
-                                                    y: 20,
-                                                    scale: .8
-                                                },
-                                                animate: a ? {
-                                                    opacity: 1,
-                                                    y: 0,
-                                                    scale: 1
-                                                } : {
-                                                    opacity: 0,
-                                                    y: 20,
-                                                    scale: .8
-                                                },
-                                                transition: {
-                                                    duration: .5,
-                                                    delay: 1.3,
-                                                    ease: "easeOut"
-                                                },
-                                                children: (0, i.jsx)(h.$, {
-                                                    variant: O[9].variant,
-                                                    rightIcon: O[9].icon,
-                                                    className: "w-full",
-                                                    asChild: !0,
-                                                    children: O[9].label
-                                                })
-                                            })
-                                        })]
-                                    }), (0, i.jsxs)("div", {
-                                        className: "flex gap-3",
-                                        children: [(0, i.jsx)("a", {
-                                            href: O[10].href,
-                                            target: "_blank",
-                                            rel: "noopener noreferrer",
-                                            className: "flex-1",
-                                            children: (0, i.jsx)(n?.P?.div || "div", {
-                                                initial: {
-                                                    opacity: 0,
-                                                    y: 20,
-                                                    scale: .8
-                                                },
-                                                animate: a ? {
-                                                    opacity: 1,
-                                                    y: 0,
-                                                    scale: 1
-                                                } : {
-                                                    opacity: 0,
-                                                    y: 20,
-                                                    scale: .8
-                                                },
-                                                transition: {
-                                                    duration: .5,
-                                                    delay: 1.4,
-                                                    ease: "easeOut"
-                                                },
-                                                children: (0, i.jsx)(h.$, {
-                                                    variant: O[10].variant,
-                                                    rightIcon: O[10].icon,
-                                                    className: "w-full",
-                                                    asChild: !0,
-                                                    children: O[10].label
-                                                })
-                                            })
-                                        }), (0, i.jsx)("a", {
-                                            href: O[11].href,
-                                            target: "_blank",
-                                            rel: "noopener noreferrer",
-                                            className: "flex-1",
-                                            children: (0, i.jsx)(n?.P?.div || "div", {
-                                                initial: {
-                                                    opacity: 0,
-                                                    y: 20,
-                                                    scale: .8
-                                                },
-                                                animate: a ? {
-                                                    opacity: 1,
-                                                    y: 0,
-                                                    scale: 1
-                                                } : {
-                                                    opacity: 0,
-                                                    y: 20,
-                                                    scale: .8
-                                                },
-                                                transition: {
-                                                    duration: .5,
-                                                    delay: 1.5,
-                                                    ease: "easeOut"
-                                                },
-                                                children: (0, i.jsx)(h.$, {
-                                                    variant: O[11].variant,
-                                                    rightIcon: O[11].icon,
-                                                    className: "w-full",
-                                                    asChild: !0,
-                                                    children: O[11].label
-                                                })
-                                            })
-                                        })]
-                                    }), (0, i.jsxs)("div", {
-                                        className: "flex gap-3",
-                                        children: [(0, i.jsx)("a", {
-                                            href: O[12].href,
-                                            target: "_blank",
-                                            rel: "noopener noreferrer",
-                                            className: "flex-1",
-                                            children: (0, i.jsx)(n?.P?.div || "div", {
-                                                initial: {
-                                                    opacity: 0,
-                                                    y: 20,
-                                                    scale: .8
-                                                },
-                                                animate: a ? {
-                                                    opacity: 1,
-                                                    y: 0,
-                                                    scale: 1
-                                                } : {
-                                                    opacity: 0,
-                                                    y: 20,
-                                                    scale: .8
-                                                },
-                                                transition: {
-                                                    duration: .5,
-                                                    delay: 1.6,
-                                                    ease: "easeOut"
-                                                },
-                                                children: (0, i.jsx)(h.$, {
-                                                    variant: O[12].variant,
-                                                    rightIcon: O[12].icon,
-                                                    className: "w-full",
-                                                    asChild: !0,
-                                                    children: O[12].label
-                                                })
-                                            })
-                                        }), (0, i.jsx)("a", {
-                                            href: O[13].href,
-                                            target: "_blank",
-                                            rel: "noopener noreferrer",
-                                            className: "flex-1",
-                                            children: (0, i.jsx)(n?.P?.div || "div", {
-                                                initial: {
-                                                    opacity: 0,
-                                                    y: 20,
-                                                    scale: .8
-                                                },
-                                                animate: a ? {
-                                                    opacity: 1,
-                                                    y: 0,
-                                                    scale: 1
-                                                } : {
-                                                    opacity: 0,
-                                                    y: 20,
-                                                    scale: .8
-                                                },
-                                                transition: {
-                                                    duration: .5,
-                                                    delay: 1.7,
-                                                    ease: "easeOut"
-                                                },
-                                                children: (0, i.jsx)(h.$, {
-                                                    variant: O[13].variant,
-                                                    rightIcon: O[13].icon,
-                                                    className: "w-full",
-                                                    asChild: !0,
-                                                    children: O[13].label
-                                                })
-                                            })
-                                        })]
-                                    }), (0, i.jsx)("a", {
-                                        href: O[14].href,
-                                        target: "_blank",
-                                        rel: "noopener noreferrer",
-                                        children: (0, i.jsx)(n?.P?.div || "div", {
-                                            initial: {
-                                                opacity: 0,
-                                                y: 20,
-                                                scale: .8
-                                            },
-                                            animate: a ? {
-                                                opacity: 1,
-                                                y: 0,
-                                                scale: 1
-                                            } : {
-                                                opacity: 0,
-                                                y: 20,
-                                                scale: .8
-                                            },
-                                            transition: {
-                                                duration: .5,
-                                                delay: 1.8,
-                                                ease: "easeOut"
-                                            },
-                                            children: (0, i.jsx)(h.$, {
-                                                variant: O[14].variant,
-                                                rightIcon: O[14].icon,
-                                                className: "w-full",
-                                                asChild: !0,
-                                                children: O[14].label
-                                            })
-                                        })
-                                    }), (0, i.jsx)("a", {
-                                        href: O[15].href,
-                                        target: "_blank",
-                                        rel: "noopener noreferrer",
-                                        children: (0, i.jsx)(n?.P?.div || "div", {
-                                            initial: {
-                                                opacity: 0,
-                                                y: 20,
-                                                scale: .8
-                                            },
-                                            animate: a ? {
-                                                opacity: 1,
-                                                y: 0,
-                                                scale: 1
-                                            } : {
-                                                opacity: 0,
-                                                y: 20,
-                                                scale: .8
-                                            },
-                                            transition: {
-                                                duration: .5,
-                                                delay: 1.9,
-                                                ease: "easeOut"
-                                            },
-                                            children: (0, i.jsx)(h.$, {
-                                                variant: O[15].variant,
-                                                rightIcon: O[15].icon,
-                                                className: "w-full",
-                                                asChild: !0,
-                                                children: O[15].label
-                                            })
-                                        })
-                                    }), (0, i.jsx)("a", {
-                                        href: O[16].href,
-                                        target: "_blank",
-                                        rel: "noopener noreferrer",
-                                        children: (0, i.jsx)(n?.P?.div || "div", {
-                                            initial: {
-                                                opacity: 0,
-                                                y: 20,
-                                                scale: .8
-                                            },
-                                            animate: a ? {
-                                                opacity: 1,
-                                                y: 0,
-                                                scale: 1
-                                            } : {
-                                                opacity: 0,
-                                                y: 20,
-                                                scale: .8
-                                            },
-                                            transition: {
-                                                duration: .5,
-                                                delay: 2,
-                                                ease: "easeOut"
-                                            },
-                                            children: (0, i.jsx)(h.$, {
-                                                variant: O[16].variant,
-                                                rightIcon: O[16].icon,
-                                                className: "w-full",
-                                                asChild: !0,
-                                                children: O[16].label
-                                            })
-                                        })
-                                    })]
-                                }), (0, i.jsx)("div", {
-                                    className: "hidden flex-wrap justify-center gap-3 min-[400px]:flex",
-                                    children: O.slice(0, 4).map((e, t) => (0, i.jsx)("a", {
-                                        href: e.href,
-                                        target: "_blank",
-                                        rel: "noopener noreferrer",
-                                        children: (0, i.jsx)(n?.P?.div || "div", {
-                                            initial: {
-                                                opacity: 0,
-                                                y: 20,
-                                                scale: .8
-                                            },
-                                            animate: a ? {
-                                                opacity: 1,
-                                                y: 0,
-                                                scale: 1
-                                            } : {
-                                                opacity: 0,
-                                                y: 20,
-                                                scale: .8
-                                            },
-                                            transition: {
-                                                duration: .5,
-                                                delay: .4 + .1 * t,
-                                                ease: "easeOut"
-                                            },
-                                            children: (0, i.jsx)(h.$, {
-                                                variant: e.variant,
-                                                leftIcon: e.icon,
-                                                className: "w-fit",
-                                                asChild: !0,
-                                                children: e.label
-                                            })
-                                        })
-                                    }, t))
-                                }), (0, i.jsx)("div", {
-                                    className: "hidden flex-wrap justify-center gap-3 min-[400px]:flex",
-                                    children: O.slice(4, 10).map((e, t) => (0, i.jsx)("a", {
-                                        href: e.href,
-                                        target: "_blank",
-                                        rel: "noopener noreferrer",
-                                        children: (0, i.jsx)(n?.P?.div || "div", {
-                                            initial: {
-                                                opacity: 0,
-                                                y: 20,
-                                                scale: .8
-                                            },
-                                            animate: a ? {
-                                                opacity: 1,
-                                                y: 0,
-                                                scale: 1
-                                            } : {
-                                                opacity: 0,
-                                                y: 20,
-                                                scale: .8
-                                            },
-                                            transition: {
-                                                duration: .5,
-                                                delay: .6 + .1 * t,
-                                                ease: "easeOut"
-                                            },
-                                            children: (0, i.jsx)(h.$, {
-                                                variant: e.variant,
-                                                rightIcon: e.icon,
-                                                className: "w-fit",
-                                                asChild: !0,
-                                                children: e.label
-                                            })
-                                        })
-                                    }, t + 4))
-                                }), (0, i.jsx)("div", {
-                                    className: "hidden flex-wrap justify-center gap-3 min-[400px]:flex",
-                                    children: O.slice(10).map((e, t) => (0, i.jsx)("a", {
-                                        href: e.href,
-                                        target: "_blank",
-                                        rel: "noopener noreferrer",
-                                        children: (0, i.jsx)(n?.P?.div || "div", {
-                                            initial: {
-                                                opacity: 0,
-                                                y: 20,
-                                                scale: .8
-                                            },
-                                            animate: a ? {
-                                                opacity: 1,
-                                                y: 0,
-                                                scale: 1
-                                            } : {
-                                                opacity: 0,
-                                                y: 20,
-                                                scale: .8
-                                            },
-                                            transition: {
-                                                duration: .5,
-                                                delay: .8 + .1 * t,
-                                                ease: "easeOut"
-                                            },
-                                            children: (0, i.jsx)(h.$, {
-                                                variant: e.variant,
-                                                rightIcon: e.icon,
-                                                className: "w-fit",
-                                                asChild: !0,
-                                                children: e.label
-                                            })
-                                        })
-                                    }, t + 10))
-                                })]
-                            }), (0, i.jsx)(n?.P?.div || "div", {
+                            }),
+
+
+                            // (0, i.jsx)(n?.P?.div || "div", {
+                            //     ref: e,
+                            //     initial: {
+                            //         opacity: 0,
+                            //         y: 20
+                            //     },
+                            //     animate: a ? {
+                            //         opacity: 1,
+                            //         y: 0
+                            //     } : {
+                            //         opacity: 0,
+                            //         y: 20
+                            //     },
+                            //     transition: {
+                            //         duration: .8,
+                            //         delay: .4
+                            //     },
+                            //     className: "flex flex-col items-center gap-6",
+                            //     children: [(0, i.jsxs)("div", {
+                            //         className: "flex w-full max-w-sm flex-col gap-3 min-[400px]:hidden",
+                            //         children: [(0, i.jsxs)
+                            //             ("div",
+                            //                 {
+                            //                     className: "flex gap-3",
+                            //                     children: [(0, i.jsx)("a", {
+                            //                         href: O[0].href,
+                            //                         target: "_blank",
+                            //                         rel: "noopener noreferrer",
+                            //                         className: "flex-1",
+                            //                         children: (0, i.jsx)(n?.P?.div || "div", {
+                            //                             initial: {
+                            //                                 opacity: 0,
+                            //                                 y: 20,
+                            //                                 scale: .8
+                            //                             },
+                            //                             animate: a ? {
+                            //                                 opacity: 1,
+                            //                                 y: 0,
+                            //                                 scale: 1
+                            //                             } : {
+                            //                                 opacity: 0,
+                            //                                 y: 20,
+                            //                                 scale: .8
+                            //                             },
+                            //                             transition: {
+                            //                                 duration: .5,
+                            //                                 delay: .4,
+                            //                                 ease: "easeOut"
+                            //                             },
+
+
+                            //                         }
+                            //                         )
+                            //                     }
+                            //                     ),
+
+                            //                     (0, i.jsx)("a", {
+                            //                         href: O[1].href,
+                            //                         target: "_blank",
+                            //                         rel: "noopener noreferrer",
+                            //                         className: "flex-1",
+                            //                         children: (0, i.jsx)(n?.P?.div || "div", {
+                            //                             initial: {
+                            //                                 opacity: 0,
+                            //                                 y: 20,
+                            //                                 scale: .8
+                            //                             },
+                            //                             animate: a ? {
+                            //                                 opacity: 1,
+                            //                                 y: 0,
+                            //                                 scale: 1
+                            //                             } : {
+                            //                                 opacity: 0,
+                            //                                 y: 20,
+                            //                                 scale: .8
+                            //                             },
+                            //                             transition: {
+                            //                                 duration: .5,
+                            //                                 delay: .5,
+                            //                                 ease: "easeOut"
+                            //                             },
+                            //                             children: (0, i.jsx)(h.$, {
+                            //                                 variant: O[1].variant,
+                            //                                 className: "w-full",
+                            //                                 asChild: !0,
+                            //                                 children: O[1].label
+                            //                             })
+                            //                         })
+                            //                     })]
+                            //                 }),
+
+
+                            //         (0, i.jsx)("a", {
+                            //             href: O[2].href,
+                            //             target: "_blank",
+                            //             rel: "noopener noreferrer",
+                            //             children: (0, i.jsx)(n?.P?.div || "div", {
+                            //                 initial: {
+                            //                     opacity: 0,
+                            //                     y: 20,
+                            //                     scale: .8
+                            //                 },
+                            //                 animate: a ? {
+                            //                     opacity: 1,
+                            //                     y: 0,
+                            //                     scale: 1
+                            //                 } : {
+                            //                     opacity: 0,
+                            //                     y: 20,
+                            //                     scale: .8
+                            //                 },
+                            //                 transition: {
+                            //                     duration: .5,
+                            //                     delay: .6,
+                            //                     ease: "easeOut"
+                            //                 },
+                            //                 children: (0, i.jsx)(h.$, {
+                            //                     variant: O[2].variant,
+                            //                     leftIcon: O[2].icon,
+                            //                     className: "w-full",
+                            //                     asChild: !0,
+                            //                     children: O[2].label
+                            //                 })
+                            //             })
+                            //         }), (0, i.jsx)("a", {
+                            //             href: O[3].href,
+                            //             target: "_blank",
+                            //             rel: "noopener noreferrer",
+                            //             children: (0, i.jsx)(n?.P?.div || "div", {
+                            //                 initial: {
+                            //                     opacity: 0,
+                            //                     y: 20,
+                            //                     scale: .8
+                            //                 },
+                            //                 animate: a ? {
+                            //                     opacity: 1,
+                            //                     y: 0,
+                            //                     scale: 1
+                            //                 } : {
+                            //                     opacity: 0,
+                            //                     y: 20,
+                            //                     scale: .8
+                            //                 },
+                            //                 transition: {
+                            //                     duration: .5,
+                            //                     delay: .7,
+                            //                     ease: "easeOut"
+                            //                 },
+                            //                 children: (0, i.jsx)(h.$, {
+                            //                     variant: O[3].variant,
+                            //                     rightIcon: O[3].icon,
+                            //                     className: "w-full",
+                            //                     asChild: !0,
+                            //                     children: O[3].label
+                            //                 })
+                            //             })
+                            //         }), (0, i.jsxs)("div", {
+                            //             className: "flex gap-3",
+                            //             children: [(0, i.jsx)("a", {
+                            //                 href: O[4].href,
+                            //                 target: "_blank",
+                            //                 rel: "noopener noreferrer",
+                            //                 className: "flex-1",
+                            //                 children: (0, i.jsx)(n?.P?.div || "div", {
+                            //                     initial: {
+                            //                         opacity: 0,
+                            //                         y: 20,
+                            //                         scale: .8
+                            //                     },
+                            //                     animate: a ? {
+                            //                         opacity: 1,
+                            //                         y: 0,
+                            //                         scale: 1
+                            //                     } : {
+                            //                         opacity: 0,
+                            //                         y: 20,
+                            //                         scale: .8
+                            //                     },
+                            //                     transition: {
+                            //                         duration: .5,
+                            //                         delay: .8,
+                            //                         ease: "easeOut"
+                            //                     },
+                            //                     children: (0, i.jsx)(h.$, {
+                            //                         variant: O[4].variant,
+                            //                         rightIcon: O[4].icon,
+                            //                         className: "w-full",
+                            //                         asChild: !0,
+                            //                         children: O[4].label
+                            //                     })
+                            //                 })
+                            //             }), (0, i.jsx)("a", {
+                            //                 href: O[5].href,
+                            //                 target: "_blank",
+                            //                 rel: "noopener noreferrer",
+                            //                 className: "flex-1",
+                            //                 children: (0, i.jsx)(n?.P?.div || "div", {
+                            //                     initial: {
+                            //                         opacity: 0,
+                            //                         y: 20,
+                            //                         scale: .8
+                            //                     },
+                            //                     animate: a ? {
+                            //                         opacity: 1,
+                            //                         y: 0,
+                            //                         scale: 1
+                            //                     } : {
+                            //                         opacity: 0,
+                            //                         y: 20,
+                            //                         scale: .8
+                            //                     },
+                            //                     transition: {
+                            //                         duration: .5,
+                            //                         delay: .9,
+                            //                         ease: "easeOut"
+                            //                     },
+                            //                     children: (0, i.jsx)(h.$, {
+                            //                         variant: O[5].variant,
+                            //                         rightIcon: O[5].icon,
+                            //                         className: "w-full",
+                            //                         asChild: !0,
+                            //                         children: O[5].label
+                            //                     })
+                            //                 })
+                            //             })]
+                            //         }), (0, i.jsxs)("div", {
+                            //             className: "flex gap-3",
+                            //             children: [(0, i.jsx)("a", {
+                            //                 href: O[6].href,
+                            //                 target: "_blank",
+                            //                 rel: "noopener noreferrer",
+                            //                 className: "flex-1",
+                            //                 children: (0, i.jsx)(n?.P?.div || "div", {
+                            //                     initial: {
+                            //                         opacity: 0,
+                            //                         y: 20,
+                            //                         scale: .8
+                            //                     },
+                            //                     animate: a ? {
+                            //                         opacity: 1,
+                            //                         y: 0,
+                            //                         scale: 1
+                            //                     } : {
+                            //                         opacity: 0,
+                            //                         y: 20,
+                            //                         scale: .8
+                            //                     },
+                            //                     transition: {
+                            //                         duration: .5,
+                            //                         delay: 1,
+                            //                         ease: "easeOut"
+                            //                     },
+                            //                     children: (0, i.jsx)(h.$, {
+                            //                         variant: O[6].variant,
+                            //                         rightIcon: O[6].icon,
+                            //                         className: "w-full",
+                            //                         asChild: !0,
+                            //                         children: O[6].label
+                            //                     })
+                            //                 })
+                            //             }), (0, i.jsx)("a", {
+                            //                 href: O[7].href,
+                            //                 target: "_blank",
+                            //                 rel: "noopener noreferrer",
+                            //                 className: "flex-1",
+                            //                 children: (0, i.jsx)(n?.P?.div || "div", {
+                            //                     initial: {
+                            //                         opacity: 0,
+                            //                         y: 20,
+                            //                         scale: .8
+                            //                     },
+                            //                     animate: a ? {
+                            //                         opacity: 1,
+                            //                         y: 0,
+                            //                         scale: 1
+                            //                     } : {
+                            //                         opacity: 0,
+                            //                         y: 20,
+                            //                         scale: .8
+                            //                     },
+                            //                     transition: {
+                            //                         duration: .5,
+                            //                         delay: 1.1,
+                            //                         ease: "easeOut"
+                            //                     },
+                            //                     children: (0, i.jsx)(h.$, {
+                            //                         variant: O[7].variant,
+                            //                         rightIcon: O[7].icon,
+                            //                         className: "w-full",
+                            //                         asChild: !0,
+                            //                         children: O[7].label
+                            //                     })
+                            //                 })
+                            //             })]
+                            //         }), (0, i.jsxs)("div", {
+                            //             className: "flex gap-3",
+                            //             children: [(0, i.jsx)("a", {
+                            //                 href: O[8].href,
+                            //                 target: "_blank",
+                            //                 rel: "noopener noreferrer",
+                            //                 className: "flex-1",
+                            //                 children: (0, i.jsx)(n?.P?.div || "div", {
+                            //                     initial: {
+                            //                         opacity: 0,
+                            //                         y: 20,
+                            //                         scale: .8
+                            //                     },
+                            //                     animate: a ? {
+                            //                         opacity: 1,
+                            //                         y: 0,
+                            //                         scale: 1
+                            //                     } : {
+                            //                         opacity: 0,
+                            //                         y: 20,
+                            //                         scale: .8
+                            //                     },
+                            //                     transition: {
+                            //                         duration: .5,
+                            //                         delay: 1.2,
+                            //                         ease: "easeOut"
+                            //                     },
+                            //                     children: (0, i.jsx)(h.$, {
+                            //                         variant: O[8].variant,
+                            //                         rightIcon: O[8].icon,
+                            //                         className: "w-full",
+                            //                         asChild: !0,
+                            //                         children: O[8].label
+                            //                     })
+                            //                 })
+                            //             }), (0, i.jsx)("a", {
+                            //                 href: O[9].href,
+                            //                 target: "_blank",
+                            //                 rel: "noopener noreferrer",
+                            //                 className: "flex-1",
+                            //                 children: (0, i.jsx)(n?.P?.div || "div", {
+                            //                     initial: {
+                            //                         opacity: 0,
+                            //                         y: 20,
+                            //                         scale: .8
+                            //                     },
+                            //                     animate: a ? {
+                            //                         opacity: 1,
+                            //                         y: 0,
+                            //                         scale: 1
+                            //                     } : {
+                            //                         opacity: 0,
+                            //                         y: 20,
+                            //                         scale: .8
+                            //                     },
+                            //                     transition: {
+                            //                         duration: .5,
+                            //                         delay: 1.3,
+                            //                         ease: "easeOut"
+                            //                     },
+                            //                     children: (0, i.jsx)(h.$, {
+                            //                         variant: O[9].variant,
+                            //                         rightIcon: O[9].icon,
+                            //                         className: "w-full",
+                            //                         asChild: !0,
+                            //                         children: O[9].label
+                            //                     })
+                            //                 })
+                            //             })]
+                            //         }), (0, i.jsxs)("div", {
+                            //             className: "flex gap-3",
+                            //             children: [(0, i.jsx)("a", {
+                            //                 href: O[10].href,
+                            //                 target: "_blank",
+                            //                 rel: "noopener noreferrer",
+                            //                 className: "flex-1",
+                            //                 children: (0, i.jsx)(n?.P?.div || "div", {
+                            //                     initial: {
+                            //                         opacity: 0,
+                            //                         y: 20,
+                            //                         scale: .8
+                            //                     },
+                            //                     animate: a ? {
+                            //                         opacity: 1,
+                            //                         y: 0,
+                            //                         scale: 1
+                            //                     } : {
+                            //                         opacity: 0,
+                            //                         y: 20,
+                            //                         scale: .8
+                            //                     },
+                            //                     transition: {
+                            //                         duration: .5,
+                            //                         delay: 1.4,
+                            //                         ease: "easeOut"
+                            //                     },
+                            //                     children: (0, i.jsx)(h.$, {
+                            //                         variant: O[10].variant,
+                            //                         rightIcon: O[10].icon,
+                            //                         className: "w-full",
+                            //                         asChild: !0,
+                            //                         children: O[10].label
+                            //                     })
+                            //                 })
+                            //             }), (0, i.jsx)("a", {
+                            //                 href: O[11].href,
+                            //                 target: "_blank",
+                            //                 rel: "noopener noreferrer",
+                            //                 className: "flex-1",
+                            //                 children: (0, i.jsx)(n?.P?.div || "div", {
+                            //                     initial: {
+                            //                         opacity: 0,
+                            //                         y: 20,
+                            //                         scale: .8
+                            //                     },
+                            //                     animate: a ? {
+                            //                         opacity: 1,
+                            //                         y: 0,
+                            //                         scale: 1
+                            //                     } : {
+                            //                         opacity: 0,
+                            //                         y: 20,
+                            //                         scale: .8
+                            //                     },
+                            //                     transition: {
+                            //                         duration: .5,
+                            //                         delay: 1.5,
+                            //                         ease: "easeOut"
+                            //                     },
+                            //                     children: (0, i.jsx)(h.$, {
+                            //                         variant: O[11].variant,
+                            //                         rightIcon: O[11].icon,
+                            //                         className: "w-full",
+                            //                         asChild: !0,
+                            //                         children: O[11].label
+                            //                     })
+                            //                 })
+                            //             })]
+                            //         }), (0, i.jsxs)("div", {
+                            //             className: "flex gap-3",
+                            //             children: [(0, i.jsx)("a", {
+                            //                 href: O[12].href,
+                            //                 target: "_blank",
+                            //                 rel: "noopener noreferrer",
+                            //                 className: "flex-1",
+                            //                 children: (0, i.jsx)(n?.P?.div || "div", {
+                            //                     initial: {
+                            //                         opacity: 0,
+                            //                         y: 20,
+                            //                         scale: .8
+                            //                     },
+                            //                     animate: a ? {
+                            //                         opacity: 1,
+                            //                         y: 0,
+                            //                         scale: 1
+                            //                     } : {
+                            //                         opacity: 0,
+                            //                         y: 20,
+                            //                         scale: .8
+                            //                     },
+                            //                     transition: {
+                            //                         duration: .5,
+                            //                         delay: 1.6,
+                            //                         ease: "easeOut"
+                            //                     },
+                            //                     children: (0, i.jsx)(h.$, {
+                            //                         variant: O[12].variant,
+                            //                         rightIcon: O[12].icon,
+                            //                         className: "w-full",
+                            //                         asChild: !0,
+                            //                         children: O[12].label
+                            //                     })
+                            //                 })
+                            //             }), (0, i.jsx)("a", {
+                            //                 href: O[13].href,
+                            //                 target: "_blank",
+                            //                 rel: "noopener noreferrer",
+                            //                 className: "flex-1",
+                            //                 children: (0, i.jsx)(n?.P?.div || "div", {
+                            //                     initial: {
+                            //                         opacity: 0,
+                            //                         y: 20,
+                            //                         scale: .8
+                            //                     },
+                            //                     animate: a ? {
+                            //                         opacity: 1,
+                            //                         y: 0,
+                            //                         scale: 1
+                            //                     } : {
+                            //                         opacity: 0,
+                            //                         y: 20,
+                            //                         scale: .8
+                            //                     },
+                            //                     transition: {
+                            //                         duration: .5,
+                            //                         delay: 1.7,
+                            //                         ease: "easeOut"
+                            //                     },
+                            //                     children: (0, i.jsx)(h.$, {
+                            //                         variant: O[13].variant,
+                            //                         rightIcon: O[13].icon,
+                            //                         className: "w-full",
+                            //                         asChild: !0,
+                            //                         children: O[13].label
+                            //                     })
+                            //                 })
+                            //             })]
+                            //         }), (0, i.jsx)("a", {
+                            //             href: O[14].href,
+                            //             target: "_blank",
+                            //             rel: "noopener noreferrer",
+                            //             children: (0, i.jsx)(n?.P?.div || "div", {
+                            //                 initial: {
+                            //                     opacity: 0,
+                            //                     y: 20,
+                            //                     scale: .8
+                            //                 },
+                            //                 animate: a ? {
+                            //                     opacity: 1,
+                            //                     y: 0,
+                            //                     scale: 1
+                            //                 } : {
+                            //                     opacity: 0,
+                            //                     y: 20,
+                            //                     scale: .8
+                            //                 },
+                            //                 transition: {
+                            //                     duration: .5,
+                            //                     delay: 1.8,
+                            //                     ease: "easeOut"
+                            //                 },
+                            //                 children: (0, i.jsx)(h.$, {
+                            //                     variant: O[14].variant,
+                            //                     rightIcon: O[14].icon,
+                            //                     className: "w-full",
+                            //                     asChild: !0,
+                            //                     children: O[14].label
+                            //                 })
+                            //             })
+                            //         }), (0, i.jsx)("a", {
+                            //             href: O[15].href,
+                            //             target: "_blank",
+                            //             rel: "noopener noreferrer",
+                            //             children: (0, i.jsx)(n?.P?.div || "div", {
+                            //                 initial: {
+                            //                     opacity: 0,
+                            //                     y: 20,
+                            //                     scale: .8
+                            //                 },
+                            //                 animate: a ? {
+                            //                     opacity: 1,
+                            //                     y: 0,
+                            //                     scale: 1
+                            //                 } : {
+                            //                     opacity: 0,
+                            //                     y: 20,
+                            //                     scale: .8
+                            //                 },
+                            //                 transition: {
+                            //                     duration: .5,
+                            //                     delay: 1.9,
+                            //                     ease: "easeOut"
+                            //                 },
+                            //                 children: (0, i.jsx)(h.$, {
+                            //                     variant: O[15].variant,
+                            //                     rightIcon: O[15].icon,
+                            //                     className: "w-full",
+                            //                     asChild: !0,
+                            //                     children: O[15].label
+                            //                 })
+                            //             })
+                            //         }), (0, i.jsx)("a", {
+                            //             href: O[16].href,
+                            //             target: "_blank",
+                            //             rel: "noopener noreferrer",
+                            //             children: (0, i.jsx)(n?.P?.div || "div", {
+                            //                 initial: {
+                            //                     opacity: 0,
+                            //                     y: 20,
+                            //                     scale: .8
+                            //                 },
+                            //                 animate: a ? {
+                            //                     opacity: 1,
+                            //                     y: 0,
+                            //                     scale: 1
+                            //                 } : {
+                            //                     opacity: 0,
+                            //                     y: 20,
+                            //                     scale: .8
+                            //                 },
+                            //                 transition: {
+                            //                     duration: .5,
+                            //                     delay: 2,
+                            //                     ease: "easeOut"
+                            //                 },
+                            //                 children: (0, i.jsx)(h.$, {
+                            //                     variant: O[16].variant,
+                            //                     rightIcon: O[16].icon,
+                            //                     className: "w-full",
+                            //                     asChild: !0,
+                            //                     children: O[16].label
+                            //                 })
+                            //             })
+                            //         })]
+                            //     }), (0, i.jsx)("div", {
+                            //         className: "hidden flex-wrap justify-center gap-3 min-[400px]:flex",
+                            //         children: O.slice(0, 4).map((e, t) => (0, i.jsx)("a", {
+                            //             href: e.href,
+                            //             target: "_blank",
+                            //             rel: "noopener noreferrer",
+                            //             children: (0, i.jsx)(n?.P?.div || "div", {
+                            //                 initial: {
+                            //                     opacity: 0,
+                            //                     y: 20,
+                            //                     scale: .8
+                            //                 },
+                            //                 animate: a ? {
+                            //                     opacity: 1,
+                            //                     y: 0,
+                            //                     scale: 1
+                            //                 } : {
+                            //                     opacity: 0,
+                            //                     y: 20,
+                            //                     scale: .8
+                            //                 },
+                            //                 transition: {
+                            //                     duration: .5,
+                            //                     delay: .4 + .1 * t,
+                            //                     ease: "easeOut"
+                            //                 },
+                            //                 children: (0, i.jsx)(h.$, {
+                            //                     variant: e.variant,
+                            //                     leftIcon: e.icon,
+                            //                     className: "w-fit",
+                            //                     asChild: !0,
+                            //                     children: e.label
+                            //                 })
+                            //             })
+                            //         }, t))
+                            //     }), (0, i.jsx)("div", {
+                            //         className: "hidden flex-wrap justify-center gap-3 min-[400px]:flex",
+                            //         children: O.slice(4, 10).map((e, t) => (0, i.jsx)("a", {
+                            //             href: e.href,
+                            //             target: "_blank",
+                            //             rel: "noopener noreferrer",
+                            //             children: (0, i.jsx)(n?.P?.div || "div", {
+                            //                 initial: {
+                            //                     opacity: 0,
+                            //                     y: 20,
+                            //                     scale: .8
+                            //                 },
+                            //                 animate: a ? {
+                            //                     opacity: 1,
+                            //                     y: 0,
+                            //                     scale: 1
+                            //                 } : {
+                            //                     opacity: 0,
+                            //                     y: 20,
+                            //                     scale: .8
+                            //                 },
+                            //                 transition: {
+                            //                     duration: .5,
+                            //                     delay: .6 + .1 * t,
+                            //                     ease: "easeOut"
+                            //                 },
+                            //                 children: (0, i.jsx)(h.$, {
+                            //                     variant: e.variant,
+                            //                     rightIcon: e.icon,
+                            //                     className: "w-fit",
+                            //                     asChild: !0,
+                            //                     children: e.label
+                            //                 })
+                            //             })
+                            //         }, t + 4))
+                            //     }), (0, i.jsx)("div", {
+                            //         className: "hidden flex-wrap justify-center gap-3 min-[400px]:flex",
+                            //         children: O.slice(10).map((e, t) => (0, i.jsx)("a", {
+                            //             href: e.href,
+                            //             target: "_blank",
+                            //             rel: "noopener noreferrer",
+                            //             children: (0, i.jsx)(n?.P?.div || "div", {
+                            //                 initial: {
+                            //                     opacity: 0,
+                            //                     y: 20,
+                            //                     scale: .8
+                            //                 },
+                            //                 animate: a ? {
+                            //                     opacity: 1,
+                            //                     y: 0,
+                            //                     scale: 1
+                            //                 } : {
+                            //                     opacity: 0,
+                            //                     y: 20,
+                            //                     scale: .8
+                            //                 },
+                            //                 transition: {
+                            //                     duration: .5,
+                            //                     delay: .8 + .1 * t,
+                            //                     ease: "easeOut"
+                            //                 },
+                            //                 children: (0, i.jsx)(h.$, {
+                            //                     variant: e.variant,
+                            //                     rightIcon: e.icon,
+                            //                     className: "w-fit",
+                            //                     asChild: !0,
+                            //                     children: e.label
+                            //                 })
+                            //             })
+                            //         }, t + 10))
+                            //     })]
+                            // }), 
+                            (0, i.jsx)(n?.P?.div || "div", {
                                 initial: {
                                     opacity: 0,
                                     y: 30
