@@ -16,34 +16,35 @@
                 $: () => i
             });
             let i = {
-                siteName: "Manyu",
-                tokenName: "$MANYU",
-                siteDescription: "Manyu",
-                siteUrl: "https://manyushiba.com/",
-                siteImage: "https://manyushiba.com/wp-content/uploads/2025/07/cropped-GCVXiwda0AAJvpe-modified-scaled-1.png",
-                hash: "0x95AF4aF910c28E8EcE4512BFE46F1F33687424ce",
-                linkTelegram: "https://t.me/manyushiba",
-                linkTwitter: "https://x.com/RealManyu",
-                linkInstagram: "https://www.instagram.com/littlemanyu_",
-                linkTiktok: "https://www.tiktok.com/@littlemanyu",
-                linkYoutube: "https://www.youtube.com/@littlemanyu_",
-                linkGithub: "https://github.com/manyushiba",
+                siteName: "NALA",
+                tokenName: "$NALA",
+                siteDescription: "NALA",
+                siteUrl: "https://basednala.com/",
+                siteImage: "https://manyushiba.com/wp-content/uploads/2025/07/cropped-GCVXiwda0AAJvpe-modified-scaled-1.webp",
+                hash: "0x000000000000000000000000",
+                linkTelegram: "https://t.me/",
+                linkTwitter: "https://x.com/",
+                linkInstagram: "https://www.instagram.com/nala_cat/",
+                linkTiktok: "https://www.tiktok.com/",
+                linkYoutube: "https://www.youtube.com/",
+                linkGithub: "https://github.com/",
                 linkMedium: "https://medium.com",
-                linkDexscreener: "https://dexscreener.com/ethereum/0xc4704f13d5e08b27b039d53873e813dd2fad99d9",
-                linkDextools: "https://www.dextools.io/app/en/ether/pair-explorer/0xc4704f13d5e08b27b039d53873e813dd2fad99d9?t=1752607022097",
-                linkUniswap: "https://swap.manyushiba.com/",
-                linkCoingecko: "https://www.coingecko.com/en/coins/manyu-2",
-                linkCmc: "https://coinmarketcap.com/currencies/manyu-ethereum/",
-                linkKucoin: "https://www.kucoin.com/trade/MANYU-USDT",
-                linkMexc: "https://www.mexc.com/exchange/MANYU_USDT",
-                linkLbank: "https://www.lbank.com/pt-BR/trade/manyu_usdt",
-                linkBitmart: "https://www.bitmart.com/trade/en-US?symbol=MANYU_USDT",
-                linkXt: "https://www.xt.com/en/trade/manyueth_usdt",
-                linkPoloniex: "https://poloniex.com/pt/trade/MANYUETH_USDT",
-                linkHotcoin: "https://www.hotcoin.com/en_US/trade/exchange/?tradeCode=manyu_usdt",
-                linkKcex: "https://www.kcex.com/exchange/MANYUETH_USDT",
-                linkBingx: "https://bingx.com/en/spot/MANYUUSDT",
-                linkEtherscan: "https://etherscan.io/address/0x95AF4aF910c28E8EcE4512BFE46F1F33687424ce"
+                linkDexscreener: "https://dexscreener.com/ethereum/0x000000000000000000000000",
+                linkDextools: "https://www.dextools.io/app/en/ether/pair-explorer/0x000000000000000000000000?t=1752607022097",
+                linkUniswap: "https://app.uniswap.org/",
+                linkCoingecko: "https://www.coingecko.com/en/coins/",
+                linkCmc: "https://coinmarketcap.com/currencies/",
+                linkKucoin: "https://www.kucoin.com/trade/",
+                linkMexc: "https://www.mexc.com/exchange/",
+                linkLbank: "https://www.lbank.com/pt-BR/trade/",
+                linkBitmart: "https://www.bitmart.com/trade/en-US?symbol=",
+                linkXt: "https://www.xt.com/en/trade/",
+                linkPoloniex: "https://poloniex.com/pt/trade/",
+                linkHotcoin: "https://www.hotcoin.com/en_US/trade/exchange/?tradeCode=",
+                linkKcex: "https://www.kcex.com/exchange/",
+                linkBingx: "https://bingx.com/en/spot/",
+                linkEtherscan: "https://basescan.io/address/0x000000000000000000000000"
+
             }
         },
         2878: (e, t, a) => {
@@ -375,10 +376,10 @@
                                                 tag: "h1",
                                                 className: "font-musashi drop-shadow-[0px_0px_10px_rgba(255,255,255,0.5)]",
                                                 size: "huge-2",
-                                                children: "Manyu"
+                                                children: "NALA"
                                             }), (0, i.jsx)(r.E, {
                                                 size: "lg",
-                                                children: "マニュー"
+                                                children: "ナラ"
                                             })]
                                         })]
                                     }), (0, i.jsx)(c?.P?.div || "div", {
@@ -398,7 +399,7 @@
                                         className: "flex justify-center",
                                         children: (0, i.jsx)(r.E, {
                                             className: "max-w-4xl text-center leading-relaxed!",
-                                            children: "Honoring the soothing spirit of Manyu, the TikTok Shiba Inu who melted hearts with her viral ASMR spa sessions. Join the $MANYU community and celebrate the calm, gentle essence of Shiba Inus for generations to come."
+                                            children: "From shelter floors to internet fame, Nala’s story is a testament to the power of love, second chances, and a little bit of internet magic."
                                         })
                                     }), (0, i.jsx)(c?.P?.div || "div", {
                                         initial: {
@@ -423,7 +424,7 @@
                                                 size: "sm",
                                                 leftIcon: (0, i.jsx)(m.cEG, {}),
                                                 asChild: !0,
-                                                children: "Buy $MANYU"
+                                                children: "Buy $NALA"
                                             })
                                         })
                                     })]
@@ -458,7 +459,7 @@
                                         },
                                         className: "flex items-center justify-center gap-2",
                                         children: [(0, i.jsx)(d.default, {
-                                            src: "/images/dog.webp",
+                                            src: "/images/cat.webp",
                                             alt: "Shiba Inu",
                                             width: 16,
                                             height: 16,
@@ -466,9 +467,9 @@
                                         }), (0, i.jsx)(r.E, {
                                             size: "lg",
                                             weight: "bold",
-                                            children: "$MANYU Contract"
+                                            children: "$NALA Contract"
                                         }), (0, i.jsx)(d.default, {
-                                            src: "/images/dog.webp",
+                                            src: "/images/cat.webp",
                                             alt: "Shiba Inu",
                                             width: 16,
                                             height: 16,
@@ -491,7 +492,7 @@
                                         children: (0, i.jsx)(r.E, {
                                             size: "sm",
                                             className: "text-gray-300",
-                                            children: "0x95AF...424ce"
+                                            children: "0x0000...00000"
                                         })
                                     }), (0, i.jsx)(c?.P?.div || "div", {
                                         initial: {
@@ -626,7 +627,7 @@
                                     className: "flex flex-col gap-2 text-center",
                                     children: (0, i.jsx)(r.E, {
                                         size: "sm",
-                                        children: "\xa9 2025 Manyu ($MANYU). All rights reserved. | contact@manyushiba.com"
+                                        children: "\xa9 2025 NALA ($NALA). All rights reserved. | contact@basednala.xyz"
                                     })
                                 })]
                             })

@@ -9,34 +9,34 @@
                 $: () => i
             });
             let i = {
-                siteName: "Manyu",
-                tokenName: "$MANYU",
-                siteDescription: "Manyu",
-                siteUrl: "https://manyushiba.com/",
+                siteName: "NALA",
+                tokenName: "$NALA",
+                siteDescription: "NALA",
+                siteUrl: "https://basednala.com/",
                 siteImage: "https://manyushiba.com/wp-content/uploads/2025/07/cropped-GCVXiwda0AAJvpe-modified-scaled-1.webp",
-                hash: "0x95AF4aF910c28E8EcE4512BFE46F1F33687424ce",
-                linkTelegram: "https://t.me/manyushiba",
-                linkTwitter: "https://x.com/RealManyu",
-                linkInstagram: "https://www.instagram.com/littlemanyu_",
-                linkTiktok: "https://www.tiktok.com/@littlemanyu",
-                linkYoutube: "https://www.youtube.com/@littlemanyu_",
-                linkGithub: "https://github.com/manyushiba",
+                hash: "0x000000000000000000000000",
+                linkTelegram: "https://t.me/",
+                linkTwitter: "https://x.com/",
+                linkInstagram: "https://www.instagram.com/nala_cat/",
+                linkTiktok: "https://www.tiktok.com/",
+                linkYoutube: "https://www.youtube.com/",
+                linkGithub: "https://github.com/",
                 linkMedium: "https://medium.com",
-                linkDexscreener: "https://dexscreener.com/ethereum/0xc4704f13d5e08b27b039d53873e813dd2fad99d9",
-                linkDextools: "https://www.dextools.io/app/en/ether/pair-explorer/0xc4704f13d5e08b27b039d53873e813dd2fad99d9?t=1752607022097",
-                linkUniswap: "https://swap.manyushiba.com/",
-                linkCoingecko: "https://www.coingecko.com/en/coins/manyu-2",
-                linkCmc: "https://coinmarketcap.com/currencies/manyu-ethereum/",
-                linkKucoin: "https://www.kucoin.com/trade/MANYU-USDT",
-                linkMexc: "https://www.mexc.com/exchange/MANYU_USDT",
-                linkLbank: "https://www.lbank.com/pt-BR/trade/manyu_usdt",
-                linkBitmart: "https://www.bitmart.com/trade/en-US?symbol=MANYU_USDT",
-                linkXt: "https://www.xt.com/en/trade/manyueth_usdt",
-                linkPoloniex: "https://poloniex.com/pt/trade/MANYUETH_USDT",
-                linkHotcoin: "https://www.hotcoin.com/en_US/trade/exchange/?tradeCode=manyu_usdt",
-                linkKcex: "https://www.kcex.com/exchange/MANYUETH_USDT",
-                linkBingx: "https://bingx.com/en/spot/MANYUUSDT",
-                linkEtherscan: "https://etherscan.io/address/0x95AF4aF910c28E8EcE4512BFE46F1F33687424ce"
+                linkDexscreener: "https://dexscreener.com/ethereum/0x000000000000000000000000",
+                linkDextools: "https://www.dextools.io/app/en/ether/pair-explorer/0x000000000000000000000000?t=1752607022097",
+                linkUniswap: "https://app.uniswap.org/",
+                linkCoingecko: "https://www.coingecko.com/en/coins/",
+                linkCmc: "https://coinmarketcap.com/currencies/",
+                linkKucoin: "https://www.kucoin.com/trade/",
+                linkMexc: "https://www.mexc.com/exchange/",
+                linkLbank: "https://www.lbank.com/pt-BR/trade/",
+                linkBitmart: "https://www.bitmart.com/trade/en-US?symbol=",
+                linkXt: "https://www.xt.com/en/trade/",
+                linkPoloniex: "https://poloniex.com/pt/trade/",
+                linkHotcoin: "https://www.hotcoin.com/en_US/trade/exchange/?tradeCode=",
+                linkKcex: "https://www.kcex.com/exchange/",
+                linkBingx: "https://bingx.com/en/spot/",
+                linkEtherscan: "https://basescan.io/address/0x000000000000000000000000"
             }
         },
         3999: (e, a, t) => {
@@ -189,7 +189,7 @@
                         children: [(0, i.jsx)(m, {
                             as: "h2",
                             className: "mb-6 text-3xl leading-tight font-extrasemibold text-zinc-950 md:text-4xl lg:text-5xl",
-                            children: "Meet Little Manyu"
+                            children: "Meet NALA"
                         }), (0, i.jsx)(n?.P?.p || "p", {
                             initial: {
                                 opacity: 0,
@@ -204,7 +204,7 @@
                                 ease: [.42, 0, .58, 1]
                             },
                             className: "mb-8 max-w-7xl text-lg text-background md:text-2xl text-justify",
-                            children: "The most charming four-legged legend to ever grace the blockchain."
+                            children: "Nala the Cat is more than just an adorable feline "
                         }), (0, i.jsx)(n?.P?.div || "div", {
                             initial: {
                                 opacity: 0,
@@ -241,11 +241,11 @@
                                     className: "relative overflow-hidden rounded-lg shadow-lg",
                                     children: (0, i.jsx)("video", {
                                         className: "h-auto w-full object-cover",
-                                        src: "https://682omkeng1.ufs.sh/f/ueMepK09S6NbN03R5fapfXYtHDnM5cBkQvgFAUmTw2ZI4RxS",
-                                        autoPlay: !0,
-                                        loop: !0,
-                                        muted: !0,
-                                        playsInline: !0,
+                                        src: "/videos/11.mp4",
+                                        autoPlay: true,
+                                        loop: true,
+                                        muted: true,
+                                        playsInline: true,
                                         controlsList: "nodownload"
                                     })
                                 }), (0, i.jsx)(n?.P?.div || "div", {
@@ -265,7 +265,7 @@
                                     className: "relative overflow-hidden rounded-lg shadow-lg",
                                     children: (0, i.jsx)("video", {
                                         className: "h-auto w-full object-cover",
-                                        src: "https://682omkeng1.ufs.sh/f/ueMepK09S6NbC3Ynjj0OCW7Lmh4HNU8GoA9cyjIdk6YSM3lT",
+                                        src: "/videos/12.mp4",
                                         autoPlay: !0,
                                         loop: !0,
                                         muted: !0,
@@ -289,7 +289,7 @@
                                 ease: [.42, 0, .58, 1]
                             },
                             className: "mb-8 max-w-7xl text-lg md:text-2xl font-background text-background text-justify",
-                            children: "Born with a big attitude in a tiny body, Manyu isn't just a Shiba; she's a lifestyle, a flex, a walking meme. From lounging in luxury to giving side-eyes that rival your favorite influencers, Manyu has captured hearts on Instagram - and now she's capturing the Ethereum network."
+                            children: "Nala the Cat is more than just an adorable feline — she's a record-breaking social media sensation and a heartwarming symbol of the magic of pet adoption. Born in 2010, Nala was adopted from a shelter in Los Angeles when she was just a kitten. Her human, Varisiri “Pookie” Methachittiphan, never imagined that Nala would grow up to be one of the most famous cats in the world."
                         }), (0, i.jsx)(n?.P?.p || "p", {
                             initial: {
                                 opacity: 0,
@@ -305,7 +305,7 @@
                                 ease: [.42, 0, .58, 1]
                             },
                             className: "mb-8 max-w-7xl text-lg md:text-2xl text-justify text-background",
-                            children: "$MANYU is more than a memecoin. It's a tribute to the unapologetic confidence, sass, and virality of a pup who lives rent-free in your feed. Every wag, pout, and paw-step of Manyu screams “main character energy” - and that's exactly what this token brings to crypto culture."
+                            children: "With her big, round blue eyes and a perpetually curious expression, Nala quickly captured the hearts of millions. Her Instagram account, @nala_cat, boasts over 4 million followers, making her the Guinness World Record holder for the most-followed cat on Instagram."
                         })]
                     })
                 })
@@ -375,7 +375,7 @@
                                     className: "relative overflow-hidden rounded-lg shadow-lg",
                                     children: (0, i.jsx)("video", {
                                         className: "h-auto w-full object-cover",
-                                        src: "https://682omkeng1.ufs.sh/f/ueMepK09S6NbN03R5fapfXYtHDnM5cBkQvgFAUmTw2ZI4RxS",
+                                        src: "/videos/13.mp4",
                                         autoPlay: !0,
                                         loop: !0,
                                         muted: !0,
@@ -471,7 +471,7 @@
                                         className: "flex items-center gap-4",
                                         children: [(0, i.jsx)(v.default, {
                                             src: "/images/logo.webp",
-                                            alt: "Manyu Logo",
+                                            alt: "NALA Logo",
                                             width: 160,
                                             height: 60,
                                             className: "h-12.5 w-auto drop-shadow-[0px_0px_10px_rgba(255,255,255,0.5)]"
@@ -481,9 +481,9 @@
                                                 tag: "h1",
                                                 className: "font-musashi drop-shadow-[0px_0px_10px_rgba(255,255,255,0.5)]",
                                                 size: "huge-2",
-                                                children: "Manyu"
+                                                children: "NALA"
                                             }), (0, i.jsx)(g.E, {
-                                                children: "マニュー"
+                                                children: "ナラ"
                                             })]
                                         })]
                                     })
@@ -520,7 +520,7 @@
                                     }), (0, i.jsx)(g.E, {
                                         size: "xs",
                                         className: "text-zinc-500",
-                                        children: "0x95AF...424ce"
+                                        children: "0x0000...000"
                                     })]
                                 }), (0, i.jsx)(u.i, {
                                     displayText: "Copy CA",
@@ -625,7 +625,7 @@
                                             }), (0, i.jsx)(g.E, {
                                                 size: "xs",
                                                 className: "text-zinc-500",
-                                                children: "0x95AF...424ce"
+                                                children: "0x0000...000"
                                             })]
                                         }), (0, i.jsx)(h.$, {
                                             leftIcon: (0, i.jsx)(k.zU_, {
@@ -768,13 +768,13 @@
                 label: "CMC",
                 href: y.$.linkCmc
             }, {
-                label: "Buy $MANYU",
+                label: "Buy $NALA",
                 icon: (0, i.jsx)(k.cEG, {
                     className: "size-5"
                 }),
                 href: y.$.linkUniswap
             }, {
-                label: "$MANYU X COMMUNITY",
+                label: "$NALA X COMMUNITY",
                 icon: (0, i.jsx)(T.bBb, {
                     className: "size-5"
                 }),
@@ -884,7 +884,7 @@
                                         size: "huge-6",
                                         weight: "bold",
                                         className: "font-musashi mb-4 text-8xl text-white drop-shadow-[0px_0px_10px_rgba(255,255,255,0.5)] sm:text-9xl lg:text-[300px]",
-                                        children: "Manyu"
+                                        children: "NALA"
                                     })
                                 }), (0, i.jsx)(n?.P?.div || "div", {
                                     initial: {
@@ -905,7 +905,7 @@
                                     children: (0, i.jsx)(g.E, {
                                         size: "huge-2",
                                         className: "text-xl md:text-2xl lg:text-3xl",
-                                        children: "マニュー - The most famous and pampered dog across social media"
+                                        children: "ナラ- Nala the Cat is more than just an adorable feline "
                                     })
                                 })]
                             }), (0, i.jsx)(n?.P?.div || "div", {
@@ -1645,7 +1645,7 @@
                                         ease: "easeOut"
                                     },
                                     children: (0, i.jsx)(N(), {
-                                        href: "https://www.tiktok.com/@littlemanyu",
+                                        href: "https://www.tiktok.com/",
                                         target: "_blank",
                                         rel: "noopener noreferrer",
                                         className: "group block",
@@ -1666,7 +1666,7 @@
                                             }), (0, i.jsx)(E, {
                                                 children: (0, i.jsx)(g.E, {
                                                     size: "sm",
-                                                    children: "Viral spa videos"
+                                                    children: "Viral Cat"
                                                 })
                                             }), (0, i.jsx)(_, {
                                                 children: "Follow ↗"
@@ -1694,7 +1694,7 @@
                                         ease: "easeOut"
                                     },
                                     children: (0, i.jsx)(N(), {
-                                        href: "https://www.instagram.com/littlemanyu_",
+                                        href: "https://www.instagram.com/nala_cat/",
                                         target: "_blank",
                                         rel: "noopener noreferrer",
                                         className: "group block",
@@ -1715,7 +1715,7 @@
                                             }), (0, i.jsx)(E, {
                                                 children: (0, i.jsx)(g.E, {
                                                     size: "sm",
-                                                    children: "Daily royal moments"
+                                                    children: "Guinness World Record Holder"
                                                 })
                                             }), (0, i.jsxs)(_, {
                                                 children: ["Follow ", (0, i.jsx)(T.bBb, {
@@ -1745,7 +1745,7 @@
                                         ease: "easeOut"
                                     },
                                     children: (0, i.jsx)(N(), {
-                                        href: "https://www.youtube.com/@littlemanyu_",
+                                        href: "https://www.youtube.com/",
                                         target: "_blank",
                                         rel: "noopener noreferrer",
                                         className: "group block",
@@ -1766,7 +1766,7 @@
                                             }), (0, i.jsx)(E, {
                                                 children: (0, i.jsx)(g.E, {
                                                     size: "sm",
-                                                    children: "Extended spa sessions"
+                                                    children: "The Viral cat"
                                                 })
                                             }), (0, i.jsxs)(_, {
                                                 children: ["Follow ", (0, i.jsx)(T.bBb, {
@@ -1845,11 +1845,11 @@
                                     children: [(0, i.jsx)(m, {
                                         as: "h2",
                                         className: "text-center text-4xl leading-tight text-white md:text-5xl lg:text-6xl",
-                                        children: "Manyu X Community"
+                                        children: "NALA X Community"
                                     }), (0, i.jsx)(g.E, {
                                         size: "lg",
                                         className: "text-center leading-relaxed",
-                                        children: "Share stories, discuss $MANYU, and celebrate Shiba heritage"
+                                        children: "Share stories, discuss $NALA, and celebrate CAT heritage"
                                     }), (0, i.jsxs)("div", {
                                         className: "flex flex-wrap justify-center gap-8 md:justify-start",
                                         children: [(0, i.jsxs)("div", {
@@ -1911,7 +1911,7 @@
                                             className: "relative overflow-hidden rounded-3xl drop-shadow-[0_0_20px_rgba(255,255,255,0.5)]",
                                             children: (0, i.jsx)(v.default, {
                                                 src: "/images/join-community.webp",
-                                                alt: "Manyu Community - Shiba Inu dogs",
+                                                alt: "NALA Community - Viral Cats",
                                                 width: 400,
                                                 height: 600,
                                                 className: "h-auto w-full object-cover",
@@ -1925,7 +1925,7 @@
                                 children: (0, i.jsx)(g.E, {
                                     size: "sm",
                                     className: "text-center",
-                                    children: "Be part of the movement of Little Manyu heritage and building the future with $MANYU"
+                                    children: "Be part of the movement of Little NALA heritage and building the future with $NALA"
                                 })
                             })]
                         })
@@ -1940,190 +1940,190 @@
                         margin: "-10% 0px -10% 0px"
                     });
                 return (0, i.jsxs)("section", {
-                    id: "manyu-fun",
-                    className: "relative flex min-h-[600px] w-full items-center justify-center overflow-hidden bg-white py-20",
-                    style: {
-                        backgroundImage: "\n          linear-gradient(rgba(107, 114, 128, 0.2) 1px, transparent 1px),\n          linear-gradient(90deg, rgba(107, 114, 128, 0.1) 1px, transparent 1px),\n          linear-gradient(45deg, rgba(75, 85, 99, 0.1) 1px, transparent 1px),\n          linear-gradient(-45deg, rgba(75, 85, 99, 0.1) 1px, transparent 1px)\n        ",
-                        backgroundSize: "60px 60px, 60px 60px, 30px 30px, 30px 30px",
-                        backgroundPosition: "0 0, 0 0, 0 0, 0 0"
-                    },
-                    children: [(0, i.jsxs)("div", {
-                        className: "pointer-events-none absolute inset-0 z-10",
-                        children: [(0, i.jsx)("div", {
-                            className: "absolute inset-y-0 left-0 w-20 bg-gradient-to-r from-white to-transparent"
-                        }), (0, i.jsx)("div", {
-                            className: "absolute inset-y-0 right-0 w-20 bg-gradient-to-l from-white to-transparent"
-                        }), (0, i.jsx)("div", {
-                            className: "absolute inset-x-0 top-0 h-20 bg-gradient-to-b from-white to-transparent"
-                        }), (0, i.jsx)("div", {
-                            className: "absolute inset-x-0 bottom-0 h-20 bg-gradient-to-t from-white to-transparent"
-                        })]
-                    }), (0, i.jsx)(n?.P?.div || "div", {
-                        ref: e,
-                        initial: {
-                            opacity: 0,
-                            y: 40
-                        },
-                        animate: a ? {
-                            opacity: 1,
-                            y: 0
-                        } : {},
-                        transition: {
-                            duration: .8,
-                            ease: [.42, 0, .58, 1]
-                        },
-                        className: "relative z-20 w-full max-w-7xl px-6 lg:px-12",
-                        children: (0, i.jsx)("div", {
-                            className: "flex flex-col items-center justify-center gap-12 text-center",
-                            children: (0, i.jsx)(n?.P?.div || "div", {
-                                initial: {
-                                    opacity: 0,
-                                    y: 20
-                                },
-                                animate: a ? {
-                                    opacity: 1,
-                                    y: 0
-                                } : {},
-                                transition: {
-                                    duration: .8,
-                                    delay: .2,
-                                    ease: [.42, 0, .58, 1]
-                                },
-                                className: "flex flex-col items-center gap-8",
-                                children: [(0, i.jsx)(n?.P?.div || "div", {
-                                    initial: {
-                                        opacity: 0,
-                                        y: 20
-                                    },
-                                    animate: a ? {
-                                        opacity: 1,
-                                        y: 0
-                                    } : {},
-                                    transition: {
-                                        duration: .8,
-                                        delay: .1,
-                                        ease: [.42, 0, .58, 1]
-                                    },
-                                    className: "flex items-center gap-4",
-                                    children: [(0, i.jsx)(m, {
-                                        as: "h2",
-                                        className: "text-4xl leading-tight text-zinc-950 md:text-5xl lg:text-6xl",
-                                        children: "Manyu Fun"
-                                    }), (0, i.jsx)(v.default, {
-                                        src: "/images/logo.webp",
-                                        alt: "Manyu Logo",
-                                        width: 60,
-                                        height: 60,
-                                        className: "h-12 w-12 sm:h-16 sm:w-16 md:h-20 md:w-20"
-                                    })]
-                                }), (0, i.jsx)(n?.P?.p || "p", {
-                                    initial: {
-                                        opacity: 0,
-                                        y: 20
-                                    },
-                                    animate: a ? {
-                                        opacity: 1,
-                                        y: 0
-                                    } : {},
-                                    transition: {
-                                        duration: .7,
-                                        ease: [.42, 0, .58, 1]
-                                    },
-                                    className: "mb-8 max-w-4xl text-justify text-lg text-zinc-700 md:text-2xl",
-                                    children: "Deploy your memes on ethereum with a few clicks by using manyu fun"
-                                }), (0, i.jsx)(n?.P?.div || "div", {
-                                    initial: {
-                                        opacity: 0,
-                                        y: 20
-                                    },
-                                    animate: a ? {
-                                        opacity: 1,
-                                        y: 0
-                                    } : {},
-                                    transition: {
-                                        duration: .8,
-                                        delay: .4,
-                                        ease: [.42, 0, .58, 1]
-                                    },
-                                    className: "relative w-full max-w-[1100px]",
-                                    children: (0, i.jsx)("div", {
-                                        className: "relative overflow-hidden rounded-xl drop-shadow-[0_0_20px_rgba(0,0,0,0.1)]",
-                                        children: (0, i.jsx)(v.default, {
-                                            src: "/images/manyu.webp",
-                                            alt: "Manyu Fun - Deploy your memes on ethereum",
-                                            width: 1100,
-                                            height: 733,
-                                            className: "h-auto w-full object-cover",
-                                            priority: !0
-                                        })
-                                    })
-                                }), (0, i.jsx)(n?.P?.div || "div", {
-                                    initial: "hidden",
-                                    animate: a ? "visible" : "hidden",
-                                    variants: Y,
-                                    children: (0, i.jsx)(N(), {
-                                        href: "https://manyu.fun",
-                                        target: "_blank",
-                                        rel: "noopener noreferrer",
-                                        children: (0, i.jsx)(h.$, {
-                                            asChild: !0,
-                                            variant: "primary",
-                                            size: "default",
-                                            rightIcon: (0, i.jsx)(k.EQc, {}),
-                                            children: "Go to Manyu Fun"
-                                        })
-                                    })
-                                })]
-                            })
-                        })
-                    })]
+                    // id: "manyu-fun",
+                    // className: "relative flex min-h-[600px] w-full items-center justify-center overflow-hidden bg-white py-20",
+                    // style: {
+                    //     backgroundImage: "\n          linear-gradient(rgba(107, 114, 128, 0.2) 1px, transparent 1px),\n          linear-gradient(90deg, rgba(107, 114, 128, 0.1) 1px, transparent 1px),\n          linear-gradient(45deg, rgba(75, 85, 99, 0.1) 1px, transparent 1px),\n          linear-gradient(-45deg, rgba(75, 85, 99, 0.1) 1px, transparent 1px)\n        ",
+                    //     backgroundSize: "60px 60px, 60px 60px, 30px 30px, 30px 30px",
+                    //     backgroundPosition: "0 0, 0 0, 0 0, 0 0"
+                    // },
+                    // children: [(0, i.jsxs)("div", {
+                    //     className: "pointer-events-none absolute inset-0 z-10",
+                    //     children: [(0, i.jsx)("div", {
+                    //         className: "absolute inset-y-0 left-0 w-20 bg-gradient-to-r from-white to-transparent"
+                    //     }), (0, i.jsx)("div", {
+                    //         className: "absolute inset-y-0 right-0 w-20 bg-gradient-to-l from-white to-transparent"
+                    //     }), (0, i.jsx)("div", {
+                    //         className: "absolute inset-x-0 top-0 h-20 bg-gradient-to-b from-white to-transparent"
+                    //     }), (0, i.jsx)("div", {
+                    //         className: "absolute inset-x-0 bottom-0 h-20 bg-gradient-to-t from-white to-transparent"
+                    //     })]
+                    // }), (0, i.jsx)(n?.P?.div || "div", {
+                    //     ref: e,
+                    //     initial: {
+                    //         opacity: 0,
+                    //         y: 40
+                    //     },
+                    //     animate: a ? {
+                    //         opacity: 1,
+                    //         y: 0
+                    //     } : {},
+                    //     transition: {
+                    //         duration: .8,
+                    //         ease: [.42, 0, .58, 1]
+                    //     },
+                    //     className: "relative z-20 w-full max-w-7xl px-6 lg:px-12",
+                    //     children: (0, i.jsx)("div", {
+                    //         className: "flex flex-col items-center justify-center gap-12 text-center",
+                    //         children: (0, i.jsx)(n?.P?.div || "div", {
+                    //             initial: {
+                    //                 opacity: 0,
+                    //                 y: 20
+                    //             },
+                    //             animate: a ? {
+                    //                 opacity: 1,
+                    //                 y: 0
+                    //             } : {},
+                    //             transition: {
+                    //                 duration: .8,
+                    //                 delay: .2,
+                    //                 ease: [.42, 0, .58, 1]
+                    //             },
+                    //             className: "flex flex-col items-center gap-8",
+                    //             children: [(0, i.jsx)(n?.P?.div || "div", {
+                    //                 initial: {
+                    //                     opacity: 0,
+                    //                     y: 20
+                    //                 },
+                    //                 animate: a ? {
+                    //                     opacity: 1,
+                    //                     y: 0
+                    //                 } : {},
+                    //                 transition: {
+                    //                     duration: .8,
+                    //                     delay: .1,
+                    //                     ease: [.42, 0, .58, 1]
+                    //                 },
+                    //                 className: "flex items-center gap-4",
+                    //                 children: [(0, i.jsx)(m, {
+                    //                     as: "h2",
+                    //                     className: "text-4xl leading-tight text-zinc-950 md:text-5xl lg:text-6xl",
+                    //                     children: "Manyu Fun"
+                    //                 }), (0, i.jsx)(v.default, {
+                    //                     src: "/images/logo.webp",
+                    //                     alt: "Manyu Logo",
+                    //                     width: 60,
+                    //                     height: 60,
+                    //                     className: "h-12 w-12 sm:h-16 sm:w-16 md:h-20 md:w-20"
+                    //                 })]
+                    //             }), (0, i.jsx)(n?.P?.p || "p", {
+                    //                 initial: {
+                    //                     opacity: 0,
+                    //                     y: 20
+                    //                 },
+                    //                 animate: a ? {
+                    //                     opacity: 1,
+                    //                     y: 0
+                    //                 } : {},
+                    //                 transition: {
+                    //                     duration: .7,
+                    //                     ease: [.42, 0, .58, 1]
+                    //                 },
+                    //                 className: "mb-8 max-w-4xl text-justify text-lg text-zinc-700 md:text-2xl",
+                    //                 children: "Deploy your memes on ethereum with a few clicks by using manyu fun"
+                    //             }), (0, i.jsx)(n?.P?.div || "div", {
+                    //                 initial: {
+                    //                     opacity: 0,
+                    //                     y: 20
+                    //                 },
+                    //                 animate: a ? {
+                    //                     opacity: 1,
+                    //                     y: 0
+                    //                 } : {},
+                    //                 transition: {
+                    //                     duration: .8,
+                    //                     delay: .4,
+                    //                     ease: [.42, 0, .58, 1]
+                    //                 },
+                    //                 className: "relative w-full max-w-[1100px]",
+                    //                 children: (0, i.jsx)("div", {
+                    //                     className: "relative overflow-hidden rounded-xl drop-shadow-[0_0_20px_rgba(0,0,0,0.1)]",
+                    //                     children: (0, i.jsx)(v.default, {
+                    //                         src: "/images/manyu.webp",
+                    //                         alt: "Manyu Fun - Deploy your memes on ethereum",
+                    //                         width: 1100,
+                    //                         height: 733,
+                    //                         className: "h-auto w-full object-cover",
+                    //                         priority: !0
+                    //                     })
+                    //                 })
+                    //             }), (0, i.jsx)(n?.P?.div || "div", {
+                    //                 initial: "hidden",
+                    //                 animate: a ? "visible" : "hidden",
+                    //                 variants: Y,
+                    //                 children: (0, i.jsx)(N(), {
+                    //                     href: "https://manyu.fun",
+                    //                     target: "_blank",
+                    //                     rel: "noopener noreferrer",
+                    //                     children: (0, i.jsx)(h.$, {
+                    //                         asChild: !0,
+                    //                         variant: "primary",
+                    //                         size: "default",
+                    //                         rightIcon: (0, i.jsx)(k.EQc, {}),
+                    //                         children: "Go to Manyu Fun"
+                    //                     })
+                    //                 })
+                    //             })]
+                    //         })
+                    //     })
+                    // })]
                 })
             }
             var L = t(6440);
 
             function D(e) {
-                let {
-                    images: a,
-                    className: t,
-                    speed: s = 40,
-                    direction: l = "left",
-                    pauseOnHover: o = !0
-                } = e;
-                return (0, i.jsx)(n?.P?.div || "div", {
-                    className: (0, r.cn)("w-full py-4 bg-background", t),
-                    initial: {
-                        opacity: 0
-                    },
-                    animate: {
-                        opacity: 1
-                    },
-                    transition: {
-                        duration: 1,
-                        ease: "easeOut",
-                        staggerChildren: .2
-                    },
-                    children: (0, i.jsx)(L.A, {
-                        speed: s,
-                        direction: l,
-                        pauseOnHover: o,
-                        gradient: !1,
-                        children: a.map((e, a) => (0, i.jsx)("div", {
-                            className: "mx-4 flex-shrink-0",
-                            children: (0, i.jsx)(v.default, {
-                                src: e,
-                                alt: "Marquee image ".concat(a + 1),
-                                width: 200,
-                                height: 200,
-                                className: "rounded-lg object-cover"
-                            })
-                        }, a))
-                    })
-                })
+                // let {
+                //     images: a,
+                //     className: t,
+                //     speed: s = 40,
+                //     direction: l = "left",
+                //     pauseOnHover: o = !0
+                // } = e;
+                // return (0, i.jsx)(n?.P?.div || "div", {
+                //     className: (0, r.cn)("w-full py-4 bg-background", t),
+                //     initial: {
+                //         opacity: 0
+                //     },
+                //     animate: {
+                //         opacity: 1
+                //     },
+                //     transition: {
+                //         duration: 1,
+                //         ease: "easeOut",
+                //         staggerChildren: .2
+                //     },
+                //     children: (0, i.jsx)(L.A, {
+                //         speed: s,
+                //         direction: l,
+                //         pauseOnHover: o,
+                //         gradient: !1,
+                //         children: a.map((e, a) => (0, i.jsx)("div", {
+                //             className: "mx-4 flex-shrink-0",
+                //             children: (0, i.jsx)(v.default, {
+                //                 src: e,
+                //                 alt: "Marquee image ".concat(a + 1),
+                //                 width: 200,
+                //                 height: 200,
+                //                 className: "rounded-lg object-cover"
+                //             })
+                //         }, a))
+                //     })
+                // })
             }
 
             function R() {
                 return (0, i.jsx)(D, {
-                    images: ["/images/manyu-pfp.webp", "/images/manyu-pfp1.webp", "/images/manyu-pfp2.webp", "/images/manyu-pfp3.webp", "/images/manyu-pfp4.webp", "/images/manyu-pfp5.webp", "/images/manyu-pfp6.webp", "/images/manyu-pfp7.webp", "/images/manyu-pfp8.webp", "/images/manyu-pfp9.webp", "/images/manyu-pfp10.webp", "/images/manyu-pfp11.webp", "/images/manyu-pfp12.webp", "/images/manyu-pfp13.webp", "/images/manyu-pfp14.webp", "/images/manyu-pfp15.webp", "/images/manyu-pfp16.webp", "/images/manyu-pfp17.webp", "/images/manyu-pfp18.webp", "/images/manyu-pfp19.webp", "/images/manyu-pfp20.webp", "/images/manyu-pfp21.webp", "/images/manyu-pfp22.webp", "/images/manyu-pfp23.webp", "/images/manyu-pfp24.webp", "/images/manyu-pfp25.webp", "/images/manyu-pfp26.webp", "/images/manyu-pfp27.webp", "/images/manyu-pfp28.webp", "/images/manyu-pfp29.webp", "/images/manyu-pfp30.webp", "/images/manyu-pfp31.webp", "/images/manyu-pfp32.webp", "/images/manyu-pfp33.webp", "/images/manyu-pfp34.webp", "/images/manyu-pfp35.webp", "/images/manyu-pfp36.webp", "/images/manyu-pfp37.webp", "/images/manyu-pfp38.webp", "/images/manyu-pfp39.webp"]
+                    // images: ["/images/manyu-pfp.webp", "/images/manyu-pfp1.webp", "/images/manyu-pfp2.webp", "/images/manyu-pfp3.webp", "/images/manyu-pfp4.webp", "/images/manyu-pfp5.webp", "/images/manyu-pfp6.webp", "/images/manyu-pfp7.webp", "/images/manyu-pfp8.webp", "/images/manyu-pfp9.webp", "/images/manyu-pfp10.webp", "/images/manyu-pfp11.webp", "/images/manyu-pfp12.webp", "/images/manyu-pfp13.webp", "/images/manyu-pfp14.webp", "/images/manyu-pfp15.webp", "/images/manyu-pfp16.webp", "/images/manyu-pfp17.webp", "/images/manyu-pfp18.webp", "/images/manyu-pfp19.webp", "/images/manyu-pfp20.webp", "/images/manyu-pfp21.webp", "/images/manyu-pfp22.webp", "/images/manyu-pfp23.webp", "/images/manyu-pfp24.webp", "/images/manyu-pfp25.webp", "/images/manyu-pfp26.webp", "/images/manyu-pfp27.webp", "/images/manyu-pfp28.webp", "/images/manyu-pfp29.webp", "/images/manyu-pfp30.webp", "/images/manyu-pfp31.webp", "/images/manyu-pfp32.webp", "/images/manyu-pfp33.webp", "/images/manyu-pfp34.webp", "/images/manyu-pfp35.webp", "/images/manyu-pfp36.webp", "/images/manyu-pfp37.webp", "/images/manyu-pfp38.webp", "/images/manyu-pfp39.webp"]
                 })
             }
 
@@ -2134,101 +2134,101 @@
                         margin: "-10% 0px -10% 0px"
                     });
                 return (0, i.jsx)("section", {
-                    id: "manyu-profiles",
-                    className: "relative flex w-full flex-col items-center justify-center overflow-hidden bg-white py-30 text-center",
-                    children: (0, i.jsx)(n?.P?.div || "div", {
-                        ref: e,
-                        initial: {
-                            opacity: 0,
-                            y: 40
-                        },
-                        animate: a ? {
-                            opacity: 1,
-                            y: 0
-                        } : {},
-                        transition: {
-                            duration: .8,
-                            ease: [.42, 0, .58, 1]
-                        },
-                        className: "flex w-full flex-col items-center",
-                        children: [(0, i.jsx)(m, {
-                            as: "h2",
-                            className: "font-extrasemibold mb-[25px] px-4 text-3xl text-zinc-950 md:text-4xl lg:text-5xl",
-                            children: "Generate your Manyu personality!"
-                        }), (0, i.jsx)(R, {}), (0, i.jsx)(n?.P?.div || "div", {
-                            initial: {
-                                opacity: 0,
-                                y: 30,
-                                scale: .95
-                            },
-                            animate: a ? {
-                                opacity: 1,
-                                y: 0,
-                                scale: 1
-                            } : {},
-                            transition: {
-                                duration: .8,
-                                delay: .3,
-                                ease: [.42, 0, .58, 1]
-                            },
-                            className: "mt-[25px] mb-[15px] w-full max-w-[550px] px-4",
-                            children: (0, i.jsx)("div", {
-                                className: "bg-background box-shadow-lg rounded-2xl p-6",
-                                children: (0, i.jsx)(n?.P?.div || "div", {
-                                    initial: {
-                                        opacity: 0,
-                                        x: 0
-                                    },
-                                    animate: a ? {
-                                        opacity: 1,
-                                        x: 0
-                                    } : {},
-                                    transition: {
-                                        duration: .7,
-                                        delay: .5,
-                                        ease: [.42, 0, .58, 1]
-                                    },
-                                    className: "relative overflow-hidden rounded-lg shadow-lg",
-                                    children: (0, i.jsx)(v.default, {
-                                        src: "/images/pfp-gifs.webp",
-                                        alt: "Manyu Community - Shiba Inu dogs",
-                                        width: 400,
-                                        height: 600,
-                                        className: "h-auto w-full object-cover",
-                                        priority: !0
-                                    })
-                                })
-                            })
-                        }), (0, i.jsx)(n?.P?.div || "div", {
-                            initial: {
-                                opacity: 0,
-                                y: 30,
-                                scale: .95
-                            },
-                            animate: a ? {
-                                opacity: 1,
-                                y: 0,
-                                scale: 1
-                            } : {},
-                            transition: {
-                                duration: .8,
-                                delay: .3,
-                                ease: [.42, 0, .58, 1]
-                            },
-                            className: "mt-4 px-4",
-                            children: (0, i.jsx)(h.$, {
-                                size: "sm",
-                                variant: "primary",
-                                leftIcon: (0, i.jsx)(k.EQc, {}),
-                                asChild: !0,
-                                children: (0, i.jsx)(N(), {
-                                    href: "https://profile.manyushiba.com/",
-                                    target: "_blank",
-                                    children: "Generate"
-                                })
-                            })
-                        })]
-                    })
+                    // id: "manyu-profiles",
+                    // className: "relative flex w-full flex-col items-center justify-center overflow-hidden bg-white py-30 text-center",
+                    // children: (0, i.jsx)(n?.P?.div || "div", {
+                    //     ref: e,
+                    //     initial: {
+                    //         opacity: 0,
+                    //         y: 40
+                    //     },
+                    //     animate: a ? {
+                    //         opacity: 1,
+                    //         y: 0
+                    //     } : {},
+                    //     transition: {
+                    //         duration: .8,
+                    //         ease: [.42, 0, .58, 1]
+                    //     },
+                    //     className: "flex w-full flex-col items-center",
+                    //     children: [(0, i.jsx)(m, {
+                    //         as: "h2",
+                    //         className: "font-extrasemibold mb-[25px] px-4 text-3xl text-zinc-950 md:text-4xl lg:text-5xl",
+                    //         children: "Generate your Manyu personality!"
+                    //     }), (0, i.jsx)(R, {}), (0, i.jsx)(n?.P?.div || "div", {
+                    //         initial: {
+                    //             opacity: 0,
+                    //             y: 30,
+                    //             scale: .95
+                    //         },
+                    //         animate: a ? {
+                    //             opacity: 1,
+                    //             y: 0,
+                    //             scale: 1
+                    //         } : {},
+                    //         transition: {
+                    //             duration: .8,
+                    //             delay: .3,
+                    //             ease: [.42, 0, .58, 1]
+                    //         },
+                    //         className: "mt-[25px] mb-[15px] w-full max-w-[550px] px-4",
+                    //         children: (0, i.jsx)("div", {
+                    //             className: "bg-background box-shadow-lg rounded-2xl p-6",
+                    //             children: (0, i.jsx)(n?.P?.div || "div", {
+                    //                 initial: {
+                    //                     opacity: 0,
+                    //                     x: 0
+                    //                 },
+                    //                 animate: a ? {
+                    //                     opacity: 1,
+                    //                     x: 0
+                    //                 } : {},
+                    //                 transition: {
+                    //                     duration: .7,
+                    //                     delay: .5,
+                    //                     ease: [.42, 0, .58, 1]
+                    //                 },
+                    //                 className: "relative overflow-hidden rounded-lg shadow-lg",
+                    //                 children: (0, i.jsx)(v.default, {
+                    //                     src: "/images/pfp-gifs.webp",
+                    //                     alt: "Manyu Community - Shiba Inu dogs",
+                    //                     width: 400,
+                    //                     height: 600,
+                    //                     className: "h-auto w-full object-cover",
+                    //                     priority: !0
+                    //                 })
+                    //             })
+                    //         })
+                    //     }), (0, i.jsx)(n?.P?.div || "div", {
+                    //         initial: {
+                    //             opacity: 0,
+                    //             y: 30,
+                    //             scale: .95
+                    //         },
+                    //         animate: a ? {
+                    //             opacity: 1,
+                    //             y: 0,
+                    //             scale: 1
+                    //         } : {},
+                    //         transition: {
+                    //             duration: .8,
+                    //             delay: .3,
+                    //             ease: [.42, 0, .58, 1]
+                    //         },
+                    //         className: "mt-4 px-4",
+                    //         children: (0, i.jsx)(h.$, {
+                    //             size: "sm",
+                    //             variant: "primary",
+                    //             leftIcon: (0, i.jsx)(k.EQc, {}),
+                    //             asChild: !0,
+                    //             children: (0, i.jsx)(N(), {
+                    //                 href: "https://profile.manyushiba.com/",
+                    //                 target: "_blank",
+                    //                 children: "Generate"
+                    //             })
+                    //         })
+                    //     })]
+                    // })
                 })
             }
 
@@ -2359,7 +2359,7 @@
                                 }), (0, i.jsx)(g.E, {
                                     size: "xs",
                                     className: "text-zinc-500",
-                                    children: "0x95AF...424ce"
+                                    children: "0x000...00000"
                                 })]
                             }), (0, i.jsx)(n?.P?.div || "div", {
                                 initial: {
@@ -2496,191 +2496,191 @@
                         margin: "-10% 0px -10% 0px"
                     });
                 return (0, i.jsx)("section", {
-                    id: "partners",
-                    className: "flex w-full flex-col items-center justify-center bg-white py-20 shadow-2xl",
-                    children: (0, i.jsxs)("div", {
-                        ref: e,
-                        className: "w-full max-w-6xl items-center justify-center px-4",
-                        children: [(0, i.jsx)(n?.P?.div || "div", {
-                            initial: {
-                                opacity: 0,
-                                y: 30
-                            },
-                            animate: a ? {
-                                opacity: 1,
-                                y: 0
-                            } : {},
-                            transition: {
-                                duration: .8,
-                                ease: "easeOut"
-                            },
-                            className: "mb-16 flex justify-center",
-                            children: (0, i.jsxs)(n?.P?.a || "a", {
-                                initial: {
-                                    opacity: 0,
-                                    scale: .9
-                                },
-                                animate: a ? {
-                                    opacity: 1,
-                                    scale: 1
-                                } : {},
-                                transition: {
-                                    duration: .6,
-                                    delay: .2,
-                                    ease: "easeOut"
-                                },
-                                href: "https://x.com/ManyuShiba/status/1940492418069287170",
-                                target: "_blank",
-                                rel: "noopener noreferrer",
-                                className: "flex cursor-pointer items-center gap-3 rounded-full bg-yellow-500 px-8 py-4 transition-colors duration-200 hover:bg-yellow-500",
-                                children: [(0, i.jsx)(n?.P?.div || "div", {
-                                    initial: {
-                                        opacity: 0,
-                                        rotate: -10
-                                    },
-                                    animate: a ? {
-                                        opacity: 1,
-                                        rotate: 0
-                                    } : {},
-                                    transition: {
-                                        duration: .5,
-                                        delay: .4,
-                                        ease: "easeOut"
-                                    },
-                                    className: "w-10",
-                                    children: (0, i.jsx)(v.default, {
-                                        src: "/images/logo-partners.webp",
-                                        alt: "Shiba Inu Logo",
-                                        width: 40,
-                                        height: 40
-                                    })
-                                }), (0, i.jsx)(n?.P?.div || "div", {
-                                    initial: {
-                                        opacity: 0,
-                                        x: 20
-                                    },
-                                    animate: a ? {
-                                        opacity: 1,
-                                        x: 0
-                                    } : {},
-                                    transition: {
-                                        duration: .6,
-                                        delay: .5,
-                                        ease: "easeOut"
-                                    },
-                                    children: (0, i.jsx)(g.E, {
-                                        size: "huge-3",
-                                        className: "font-musashi text-white text-xl text-center sm:text-2xl lg:text-3xl",
-                                        children: "Partnered with Shiba Inu Team"
-                                    })
-                                })]
-                            })
-                        }), (0, i.jsx)(n?.P?.div || "div", {
-                            initial: {
-                                opacity: 0,
-                                y: 30
-                            },
-                            animate: a ? {
-                                opacity: 1,
-                                y: 0
-                            } : {},
-                            transition: {
-                                duration: .8,
-                                delay: .3,
-                                ease: "easeOut"
-                            },
-                            className: "mx-auto flex max-w-4xl flex-wrap justify-center gap-10",
-                            children: K.map((e, t) => (0, i.jsx)(n?.P?.div || "div", {
-                                initial: {
-                                    opacity: 0,
-                                    y: 30,
-                                    scale: .9
-                                },
-                                animate: a ? {
-                                    opacity: 1,
-                                    y: 0,
-                                    scale: 1
-                                } : {},
-                                transition: {
-                                    duration: .6,
-                                    delay: .4 + .1 * t,
-                                    ease: "easeOut"
-                                },
-                                className: "flex flex-col items-center text-center",
-                                children: [(0, i.jsx)(n?.P?.div || "div", {
-                                    initial: {
-                                        opacity: 0,
-                                        scale: .8
-                                    },
-                                    animate: a ? {
-                                        opacity: 1,
-                                        scale: 1
-                                    } : {},
-                                    transition: {
-                                        duration: .5,
-                                        delay: .6 + .1 * t,
-                                        ease: "easeOut"
-                                    },
-                                    whileHover: {
-                                        scale: 1.05
-                                    },
-                                    className: "mb-4 h-40 w-40 cursor-pointer overflow-hidden rounded-full border-4 border-white shadow-lg transition-transform duration-700 ease-in",
-                                    children: (0, i.jsx)(v.default, {
-                                        src: e.profileImage,
-                                        alt: e.name,
-                                        width: 165,
-                                        height: 165,
-                                        className: "h-full w-full object-cover"
-                                    })
-                                }), (0, i.jsx)(n?.P?.div || "div", {
-                                    initial: {
-                                        opacity: 0,
-                                        y: 15
-                                    },
-                                    animate: a ? {
-                                        opacity: 1,
-                                        y: 0
-                                    } : {},
-                                    transition: {
-                                        duration: .5,
-                                        delay: .7 + .1 * t,
-                                        ease: "easeOut"
-                                    },
-                                    children: (0, i.jsx)(g.E, {
-                                        size: "huge-3",
-                                        className: "font-musashi mb-2 text-zinc-600",
-                                        children: e.name
-                                    })
-                                }), e.twitterUrl && (0, i.jsxs)(n?.P?.a || "a", {
-                                    initial: {
-                                        opacity: 0,
-                                        y: 15
-                                    },
-                                    animate: a ? {
-                                        opacity: 1,
-                                        y: 0
-                                    } : {},
-                                    transition: {
-                                        duration: .5,
-                                        delay: .8 + .1 * t,
-                                        ease: "easeOut"
-                                    },
-                                    whileHover: {
-                                        scale: 1.05
-                                    },
-                                    href: e.twitterUrl,
-                                    target: "_blank",
-                                    rel: "noopener noreferrer",
-                                    className: "flex items-center gap-1 text-zinc-600 transition-colors duration-200 hover:text-blue-500",
-                                    children: [(0, i.jsx)(g.E, {
-                                        size: "sm",
-                                        className: "text-zinc-600",
-                                        children: "Follow On"
-                                    }), (0, i.jsx)(M.TCj, {})]
-                                })]
-                            }, e.name))
-                        })]
-                    })
+                    // id: "partners",
+                    // className: "flex w-full flex-col items-center justify-center bg-white py-20 shadow-2xl",
+                    // children: (0, i.jsxs)("div", {
+                    //     ref: e,
+                    //     className: "w-full max-w-6xl items-center justify-center px-4",
+                    //     children: [(0, i.jsx)(n?.P?.div || "div", {
+                    //         initial: {
+                    //             opacity: 0,
+                    //             y: 30
+                    //         },
+                    //         animate: a ? {
+                    //             opacity: 1,
+                    //             y: 0
+                    //         } : {},
+                    //         transition: {
+                    //             duration: .8,
+                    //             ease: "easeOut"
+                    //         },
+                    //         className: "mb-16 flex justify-center",
+                    //         children: (0, i.jsxs)(n?.P?.a || "a", {
+                    //             initial: {
+                    //                 opacity: 0,
+                    //                 scale: .9
+                    //             },
+                    //             animate: a ? {
+                    //                 opacity: 1,
+                    //                 scale: 1
+                    //             } : {},
+                    //             transition: {
+                    //                 duration: .6,
+                    //                 delay: .2,
+                    //                 ease: "easeOut"
+                    //             },
+                    //             href: "https://x.com/ManyuShiba/status/1940492418069287170",
+                    //             target: "_blank",
+                    //             rel: "noopener noreferrer",
+                    //             className: "flex cursor-pointer items-center gap-3 rounded-full bg-yellow-500 px-8 py-4 transition-colors duration-200 hover:bg-yellow-500",
+                    //             children: [(0, i.jsx)(n?.P?.div || "div", {
+                    //                 initial: {
+                    //                     opacity: 0,
+                    //                     rotate: -10
+                    //                 },
+                    //                 animate: a ? {
+                    //                     opacity: 1,
+                    //                     rotate: 0
+                    //                 } : {},
+                    //                 transition: {
+                    //                     duration: .5,
+                    //                     delay: .4,
+                    //                     ease: "easeOut"
+                    //                 },
+                    //                 className: "w-10",
+                    //                 children: (0, i.jsx)(v.default, {
+                    //                     src: "/images/logo-partners.webp",
+                    //                     alt: "Shiba Inu Logo",
+                    //                     width: 40,
+                    //                     height: 40
+                    //                 })
+                    //             }), (0, i.jsx)(n?.P?.div || "div", {
+                    //                 initial: {
+                    //                     opacity: 0,
+                    //                     x: 20
+                    //                 },
+                    //                 animate: a ? {
+                    //                     opacity: 1,
+                    //                     x: 0
+                    //                 } : {},
+                    //                 transition: {
+                    //                     duration: .6,
+                    //                     delay: .5,
+                    //                     ease: "easeOut"
+                    //                 },
+                    //                 children: (0, i.jsx)(g.E, {
+                    //                     size: "huge-3",
+                    //                     className: "font-musashi text-white text-xl text-center sm:text-2xl lg:text-3xl",
+                    //                     children: "Partnered with Shiba Inu Team"
+                    //                 })
+                    //             })]
+                    //         })
+                    //     }), (0, i.jsx)(n?.P?.div || "div", {
+                    //         initial: {
+                    //             opacity: 0,
+                    //             y: 30
+                    //         },
+                    //         animate: a ? {
+                    //             opacity: 1,
+                    //             y: 0
+                    //         } : {},
+                    //         transition: {
+                    //             duration: .8,
+                    //             delay: .3,
+                    //             ease: "easeOut"
+                    //         },
+                    //         className: "mx-auto flex max-w-4xl flex-wrap justify-center gap-10",
+                    //         children: K.map((e, t) => (0, i.jsx)(n?.P?.div || "div", {
+                    //             initial: {
+                    //                 opacity: 0,
+                    //                 y: 30,
+                    //                 scale: .9
+                    //             },
+                    //             animate: a ? {
+                    //                 opacity: 1,
+                    //                 y: 0,
+                    //                 scale: 1
+                    //             } : {},
+                    //             transition: {
+                    //                 duration: .6,
+                    //                 delay: .4 + .1 * t,
+                    //                 ease: "easeOut"
+                    //             },
+                    //             className: "flex flex-col items-center text-center",
+                    //             children: [(0, i.jsx)(n?.P?.div || "div", {
+                    //                 initial: {
+                    //                     opacity: 0,
+                    //                     scale: .8
+                    //                 },
+                    //                 animate: a ? {
+                    //                     opacity: 1,
+                    //                     scale: 1
+                    //                 } : {},
+                    //                 transition: {
+                    //                     duration: .5,
+                    //                     delay: .6 + .1 * t,
+                    //                     ease: "easeOut"
+                    //                 },
+                    //                 whileHover: {
+                    //                     scale: 1.05
+                    //                 },
+                    //                 className: "mb-4 h-40 w-40 cursor-pointer overflow-hidden rounded-full border-4 border-white shadow-lg transition-transform duration-700 ease-in",
+                    //                 children: (0, i.jsx)(v.default, {
+                    //                     src: e.profileImage,
+                    //                     alt: e.name,
+                    //                     width: 165,
+                    //                     height: 165,
+                    //                     className: "h-full w-full object-cover"
+                    //                 })
+                    //             }), (0, i.jsx)(n?.P?.div || "div", {
+                    //                 initial: {
+                    //                     opacity: 0,
+                    //                     y: 15
+                    //                 },
+                    //                 animate: a ? {
+                    //                     opacity: 1,
+                    //                     y: 0
+                    //                 } : {},
+                    //                 transition: {
+                    //                     duration: .5,
+                    //                     delay: .7 + .1 * t,
+                    //                     ease: "easeOut"
+                    //                 },
+                    //                 children: (0, i.jsx)(g.E, {
+                    //                     size: "huge-3",
+                    //                     className: "font-musashi mb-2 text-zinc-600",
+                    //                     children: e.name
+                    //                 })
+                    //             }), e.twitterUrl && (0, i.jsxs)(n?.P?.a || "a", {
+                    //                 initial: {
+                    //                     opacity: 0,
+                    //                     y: 15
+                    //                 },
+                    //                 animate: a ? {
+                    //                     opacity: 1,
+                    //                     y: 0
+                    //                 } : {},
+                    //                 transition: {
+                    //                     duration: .5,
+                    //                     delay: .8 + .1 * t,
+                    //                     ease: "easeOut"
+                    //                 },
+                    //                 whileHover: {
+                    //                     scale: 1.05
+                    //                 },
+                    //                 href: e.twitterUrl,
+                    //                 target: "_blank",
+                    //                 rel: "noopener noreferrer",
+                    //                 className: "flex items-center gap-1 text-zinc-600 transition-colors duration-200 hover:text-blue-500",
+                    //                 children: [(0, i.jsx)(g.E, {
+                    //                     size: "sm",
+                    //                     className: "text-zinc-600",
+                    //                     children: "Follow On"
+                    //                 }), (0, i.jsx)(M.TCj, {})]
+                    //             })]
+                    //         }, e.name))
+                    //     })]
+                    // })
                 })
             }
             var J = t(5116);
@@ -3260,7 +3260,7 @@
                             children: [(0, i.jsx)(m, {
                                 as: "h1",
                                 className: "mb-4 text-6xl font-black tracking-tight uppercase md:text-8xl",
-                                children: "MANYOMICS"
+                                children: "NALAOMICS"
                             }), (0, i.jsx)(n?.P?.div || "div", {
                                 initial: {
                                     opacity: 0,
@@ -3278,7 +3278,7 @@
                                 children: (0, i.jsx)(g.E, {
                                     size: "xl",
                                     className: "mx-auto max-w-2xl text-zinc-300 md:text-2xl",
-                                    children: "The foundation of $MANYU'S economic model - transparent, fair, and community-focused"
+                                    children: "The foundation of $NALA'S economic model - transparent, fair, and community-focused"
                                 })
                             })]
                         }), (0, i.jsx)("div", {
@@ -3417,7 +3417,7 @@
                                     children: (0, i.jsx)(g.E, {
                                         size: "xs",
                                         className: "mb-6 text-center font-mono sm:text-lg lg:text-xl",
-                                        children: "0x95AF4aF910c28E8EcE4512BFE46F1F33687424ce"
+                                        children: "0x000000000000000000000000"
                                     })
                                 }), (0, i.jsx)(n?.P?.div || "div", {
                                     initial: {
