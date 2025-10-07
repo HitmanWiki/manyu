@@ -338,7 +338,7 @@
                         children: [(0, i.jsx)(m, {
                             as: "h2",
                             className: "font-extrasemibold mb-6 text-3xl leading-tight text-zinc-950 md:text-4xl lg:text-5xl",
-                            children: "Chill and relax with Manyu"
+                            children: "Chill and relax with NALA"
                         }), (0, i.jsx)(n?.P?.div || "div", {
                             initial: {
                                 opacity: 0,
