@@ -379,7 +379,7 @@
                                                 children: "NALA"
                                             }), (0, i.jsx)(r.E, {
                                                 size: "lg",
-                                                children: "ナラ"
+                                                children: ""
                                             })]
                                         })]
                                     }), (0, i.jsx)(c?.P?.div || "div", {
