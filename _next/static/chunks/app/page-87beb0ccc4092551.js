@@ -486,7 +486,7 @@
                                                 size: "huge-2",
                                                 children: "NALA"
                                             }), (0, i.jsx)(g.E, {
-                                                children: "ナラ"
+                                                children: ""
                                             })]
                                         })]
                                     })
@@ -913,7 +913,7 @@
                                     children: (0, i.jsx)(g.E, {
                                         size: "huge-2",
                                         className: "text-xl md:text-2xl lg:text-3xl",
-                                        children: "ナラ- Nala The worlds most famous cat "
+                                        children: "Nala The worlds most famous cat "
                                     })
                                 })]
                             }),
@@ -3249,7 +3249,7 @@
                     children: [(0, i.jsx)("div", {
                         className: "absolute inset-0 z-0",
                         children: (0, i.jsx)("iframe", {
-                            src: "https://www.youtube.com/embed/9XCyKtFsYbg?autoplay=1&mute=1&loop=1&playlist=9XCyKtFsYbg&controls=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&enablejsapi=1&version=3&playerapiid=ytplayer",
+                            src: "https://www.youtube.com/embed/iMDL5so-MHw?autoplay=1&mute=1&loop=1&playlist=iMDL5so-MHw&controls=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&enablejsapi=1&version=3&playerapiid=ytplayer",
                             className: "h-full w-full scale-150 brightness-50",
                             frameBorder: "0",
                             allow: "autoplay; encrypted-media",
@@ -3295,7 +3295,7 @@
                                 children: (0, i.jsx)(g.E, {
                                     size: "xl",
                                     className: "mx-auto max-w-2xl text-zinc-300 md:text-2xl",
-                                    children: "The foundation of $NALA'S economic model - transparent, fair, and community-focused"
+                                    children: ""
                                 })
                             })]
                         }), (0, i.jsx)("div", {
