@@ -492,7 +492,7 @@
                                         children: (0, i.jsx)(r.E, {
                                             size: "sm",
                                             className: "text-gray-300",
-                                            children: "0x0000...00000"
+                                            children: "0x11A....229A"
                                         })
                                     }), (0, i.jsx)(c?.P?.div || "div", {
                                         initial: {

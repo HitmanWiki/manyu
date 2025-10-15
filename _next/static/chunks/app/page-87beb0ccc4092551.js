@@ -524,7 +524,7 @@
                                     }), (0, i.jsx)(g.E, {
                                         size: "xs",
                                         className: "text-zinc-500",
-                                        children: "0x0000...000"
+                                        children: "0x11A....229A"
                                     })]
                                 }), (0, i.jsx)(u.i, {
                                     displayText: "Copy CA",
@@ -629,7 +629,7 @@
                                             }), (0, i.jsx)(g.E, {
                                                 size: "xs",
                                                 className: "text-zinc-500",
-                                                children: "0x0000...000"
+                                                children: "0x11A....229A"
                                             })]
                                         }), (0, i.jsx)(h.$, {
                                             leftIcon: (0, i.jsx)(k.zU_, {
@@ -2377,7 +2377,7 @@
                                 }), (0, i.jsx)(g.E, {
                                     size: "xs",
                                     className: "text-zinc-500",
-                                    children: "0x000...00000"
+                                    children: "0x11A....229A"
                                 })]
                             }), (0, i.jsx)(n?.P?.div || "div", {
                                 initial: {
