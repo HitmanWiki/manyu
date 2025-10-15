@@ -14,16 +14,17 @@
                 siteDescription: "NALA",
                 siteUrl: "https://basednala.com/",
                 siteImage: "https://manyushiba.com/wp-content/uploads/2025/07/cropped-GCVXiwda0AAJvpe-modified-scaled-1.webp",
-                hash: "0x000000000000000000000000",
+                hash: "0x11A4ec8f460318FE7933C2005F090AcFbD73229a",
                 linkTelegram: "https://t.me/Basenala",
+                linkXCommunity: "https://t.me/Basenala",
                 linkTwitter: "https://x.com/basenala?s=21",
                 linkInstagram: "https://www.instagram.com/nala_cat/",
                 linkTiktok: "https://www.tiktok.com/",
                 linkYoutube: "https://www.youtube.com/",
                 linkGithub: "https://github.com/",
                 linkMedium: "https://medium.com",
-                linkDexscreener: "https://dexscreener.com/ethereum/0x000000000000000000000000",
-                linkDextools: "https://www.dextools.io/app/en/ether/pair-explorer/0x000000000000000000000000?t=1752607022097",
+                linkDexscreener: "https://dexscreener.com/base/0x11A4ec8f460318FE7933C2005F090AcFbD73229a",
+                linkDextools: "https://www.dextools.io/app/en/base/pair-explorer/0x11A4ec8f460318FE7933C2005F090AcFbD73229a?t=1752607022097",
                 linkUniswap: "https://app.uniswap.org/",
                 linkCoingecko: "https://www.coingecko.com/en/coins/",
                 linkCmc: "https://coinmarketcap.com/currencies/",
@@ -36,7 +37,7 @@
                 linkHotcoin: "https://www.hotcoin.com/en_US/trade/exchange/?tradeCode=",
                 linkKcex: "https://www.kcex.com/exchange/",
                 linkBingx: "https://bingx.com/en/spot/",
-                linkEtherscan: "https://basescan.io/address/0x000000000000000000000000"
+                linkEtherscan: "https://basescan.io/address/0x11A4ec8f460318FE7933C2005F090AcFbD73229a"
             }
         },
         3999: (e, a, t) => {
@@ -3434,7 +3435,7 @@
                                     children: (0, i.jsx)(g.E, {
                                         size: "xs",
                                         className: "mb-6 text-center font-mono sm:text-lg lg:text-xl",
-                                        children: "0x000000000000000000000000"
+                                        children: "0x11A4ec8f460318FE7933C2005F090AcFbD73229a"
                                     })
                                 }), (0, i.jsx)(n?.P?.div || "div", {
                                     initial: {
