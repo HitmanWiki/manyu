@@ -306,7 +306,7 @@
                                 ease: [.42, 0, .58, 1]
                             },
                             className: "mb-8 max-w-7xl text-lg md:text-2xl text-justify text-background",
-                            children: "With her big, round blue eyes and a perpetually curious expression, Nala quickly captured the hearts of millions. Her Instagram account, @nala_cat, boasts over 4 million followers, making her the Guinness World Record holder for the most-followed cat on Instagram."
+                            children: "This project is created out of admiration and love for Nala the Cat, the world-famous feline who has inspired millions with her charm and story of adoption. Our goal is to celebrate the positive influence and joyful spirit that Nala represents — kindness, connection, and the magic of pet adoption.The project is built on the Base Chain, combining community creativity with blockchain innovation. It is a fan-inspired tribute, not an official or affiliated product of Nala Cat or her owners. We do not intend to infringe on any trademarks, copyrights, or likeness rights. All references to Nala are made respectfully and purely for the purpose of appreciation and inspiration.In short, this project exists for the love of Nala, to honor her legacy while bringing people together through the Base community."
                         })]
                     })
                 })
