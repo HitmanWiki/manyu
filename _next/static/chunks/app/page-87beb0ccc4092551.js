@@ -914,7 +914,7 @@
                                     children: (0, i.jsx)(g.E, {
                                         size: "huge-2",
                                         className: "text-xl md:text-2xl lg:text-3xl",
-                                        children: "Nala The worlds most famous cat "
+                                        children: "Inspired By The worlds most famous cat "
                                     })
                                 })]
                             }),
